@@ -1,0 +1,3001 @@
+supplier_id,name,country,capacity_score
+SUP_JP_00001,"Rodriguez, Figueroa and Sanchez",JP,1
+SUP_CN_00002,Doyle Ltd,CN,1
+SUP_CN_00003,"Mcclain, Miller and Henderson",CN,1
+SUP_CN_00004,Davis and Sons,CN,1
+SUP_DE_00005,"Guzman, Hoffman and Baldwin",DE,1
+SUP_JP_00006,"Gardner, Robinson and Lawrence",JP,1
+SUP_US_00007,Blake and Sons,US,1
+SUP_CN_00008,"Henderson, Ramirez and Lewis",CN,1
+SUP_CN_00009,Garcia-James,CN,1
+SUP_CN_00010,Abbott-Munoz,CN,1
+SUP_CN_00011,Blair PLC,CN,1
+SUP_KR_00012,Dudley Group,KR,1
+SUP_CN_00013,Arnold Ltd,CN,1
+SUP_CN_00014,"Mcclure, Ward and Lee",CN,1
+SUP_JP_00015,Williams and Sons,JP,1
+SUP_KR_00016,Galloway-Wyatt,KR,1
+SUP_CN_00017,James Group,CN,1
+SUP_KR_00018,"Flowers, Martin and Kelly",KR,1
+SUP_US_00019,"Adams, Zuniga and Wong",US,1
+SUP_CN_00020,"Reid, Ferguson and Sanchez",CN,1
+SUP_US_00021,Gray-Mayo,US,1
+SUP_JP_00022,"Watts, Robinson and Nguyen",JP,1
+SUP_CN_00023,Perez Inc,CN,1
+SUP_CN_00024,Morales-Jones,CN,1
+SUP_XX_00025,"Walter, Edwards and Rios",XX,1
+SUP_CN_00026,Wilkerson-Day,CN,1
+SUP_CN_00027,Baker and Sons,CN,1
+SUP_CN_00028,"Hoffman, Baker and Richards",CN,1
+SUP_US_00029,"Ross, Robinson and Bright",US,1
+SUP_JP_00030,"Snyder, Campos and Callahan",JP,1
+SUP_US_00031,Burton Ltd,US,1
+SUP_DE_00032,Carlson-Cruz,DE,1
+SUP_KR_00033,"Ferrell, Rice and Maddox",KR,1
+SUP_XX_00034,Frazier Inc,XX,1
+SUP_CN_00035,"Dyer, Potter and Mack",CN,1
+SUP_KR_00036,Rodriguez-Graham,KR,1
+SUP_US_00037,Smith-Bowen,US,1
+SUP_JP_00038,"Baker, Mason and White",JP,1
+SUP_US_00039,Harrell LLC,US,1
+SUP_KR_00040,"Romero, Gonzalez and Brooks",KR,1
+SUP_DE_00041,Ryan PLC,DE,1
+SUP_CN_00042,George Group,CN,1
+SUP_CN_00043,Rodriguez LLC,CN,1
+SUP_CN_00044,Allen-Allen,CN,1
+SUP_CN_00045,"Arroyo, Miller and Tucker",CN,1
+SUP_CN_00046,Spence PLC,CN,1
+SUP_CN_00047,Anderson Group,CN,1
+SUP_CN_00048,"Martin, Rose and Obrien",CN,1
+SUP_JP_00049,Hickman Ltd,JP,1
+SUP_CN_00050,"Harris, Collins and Carney",CN,1
+SUP_CN_00051,"Brooks, Lam and Hayes",CN,1
+SUP_CN_00052,Walker LLC,CN,1
+SUP_CN_00053,Chapman and Sons,CN,1
+SUP_XX_00054,"Robinson, Jones and Welch",XX,1
+SUP_JP_00055,Jones Inc,JP,1
+SUP_JP_00056,Jones-Young,JP,1
+SUP_CN_00057,"Washington, Ryan and Cummings",CN,1
+SUP_DE_00058,"Johnston, Sanchez and Kennedy",DE,1
+SUP_CN_00059,Lee-Davis,CN,1
+SUP_CN_00060,Gomez-Jenkins,CN,1
+SUP_XX_00061,"Brown, Valdez and Lucas",XX,1
+SUP_JP_00062,Powell LLC,JP,1
+SUP_KR_00063,Wright and Sons,KR,1
+SUP_JP_00064,"West, Henderson and Ramirez",JP,1
+SUP_US_00065,Baxter Inc,US,1
+SUP_DE_00066,Morton-Chase,DE,1
+SUP_CN_00067,Williams PLC,CN,1
+SUP_CN_00068,Novak and Sons,CN,1
+SUP_CN_00069,Russell Group,CN,1
+SUP_CN_00070,Hancock Inc,CN,1
+SUP_CN_00071,Gray Group,CN,1
+SUP_XX_00072,House-Glover,XX,1
+SUP_US_00073,Henderson-Bernard,US,1
+SUP_CN_00074,"Stanley, Tucker and Lee",CN,1
+SUP_JP_00075,Novak PLC,JP,1
+SUP_CN_00076,"Daniels, Adkins and Brown",CN,1
+SUP_XX_00077,"Woods, Calhoun and Schmidt",XX,1
+SUP_KR_00078,Yu Inc,KR,1
+SUP_CN_00079,Jones Inc,CN,1
+SUP_CN_00080,"Hensley, Powell and David",CN,1
+SUP_KR_00081,"Sanchez, Wheeler and Harvey",KR,1
+SUP_CN_00082,Sandoval-Cunningham,CN,1
+SUP_KR_00083,Donovan-Harris,KR,1
+SUP_US_00084,"Edwards, Baker and Anderson",US,1
+SUP_CN_00085,"Evans, Stewart and Walton",CN,1
+SUP_CN_00086,Smith PLC,CN,1
+SUP_XX_00087,"Ferrell, Jones and Lewis",XX,1
+SUP_KR_00088,Anderson-Bailey,KR,1
+SUP_CN_00089,Suarez LLC,CN,1
+SUP_CN_00090,Moore-Bass,CN,1
+SUP_CN_00091,"Turner, Riggs and Roman",CN,1
+SUP_JP_00092,"Smith, Montoya and Evans",JP,1
+SUP_DE_00093,"Garcia, Humphrey and Baker",DE,1
+SUP_CN_00094,Newton and Sons,CN,1
+SUP_CN_00095,Campbell-Clark,CN,1
+SUP_CN_00096,Harris-Walters,CN,1
+SUP_XX_00097,Wagner-King,XX,1
+SUP_KR_00098,Davis Group,KR,1
+SUP_XX_00099,Williams-Cook,XX,1
+SUP_US_00100,Walsh LLC,US,1
+SUP_CN_00101,Figueroa PLC,CN,1
+SUP_DE_00102,"Patterson, Smith and Jones",DE,1
+SUP_JP_00103,"Mckee, Gardner and Davenport",JP,1
+SUP_KR_00104,"Tran, Jordan and Williams",KR,1
+SUP_CN_00105,Nolan-Flynn,CN,1
+SUP_JP_00106,Nolan and Sons,JP,1
+SUP_CN_00107,"Wright, Garcia and Deleon",CN,1
+SUP_CN_00108,Dickson-Brady,CN,1
+SUP_KR_00109,Hancock and Sons,KR,1
+SUP_XX_00110,Johnson-Doyle,XX,1
+SUP_US_00111,Patton-Jenkins,US,1
+SUP_CN_00112,"Shields, Cochran and Adams",CN,1
+SUP_KR_00113,"Rodriguez, Brennan and Garrison",KR,1
+SUP_CN_00114,Gonzalez Group,CN,1
+SUP_XX_00115,Torres-Pope,XX,1
+SUP_US_00116,Walker Ltd,US,1
+SUP_CN_00117,Ross LLC,CN,1
+SUP_JP_00118,Rasmussen LLC,JP,1
+SUP_JP_00119,May-Ross,JP,1
+SUP_CN_00120,"Rivera, Johnson and Wiley",CN,1
+SUP_DE_00121,White-Estes,DE,1
+SUP_KR_00122,Johnson-Carlson,KR,1
+SUP_DE_00123,Chandler-Edwards,DE,1
+SUP_KR_00124,"Joyce, Wilson and Lam",KR,1
+SUP_CN_00125,Scott Ltd,CN,1
+SUP_CN_00126,Smith-Frost,CN,1
+SUP_CN_00127,"Mcdaniel, Bentley and Mclaughlin",CN,1
+SUP_XX_00128,Diaz Inc,XX,1
+SUP_US_00129,"Mccall, Hanson and Alvarado",US,1
+SUP_US_00130,Cortez LLC,US,1
+SUP_CN_00131,"Parker, Ortiz and Powell",CN,1
+SUP_CN_00132,Spencer-Lee,CN,1
+SUP_US_00133,"Bentley, Byrd and Orr",US,1
+SUP_XX_00134,"Carroll, Sullivan and Bass",XX,1
+SUP_CN_00135,Mitchell-Jordan,CN,1
+SUP_KR_00136,"Lawson, Morris and Ramos",KR,1
+SUP_CN_00137,"Lewis, Kennedy and Santana",CN,1
+SUP_DE_00138,"Jackson, Miller and Robertson",DE,1
+SUP_DE_00139,"Harvey, Davis and Crane",DE,1
+SUP_CN_00140,Chambers and Sons,CN,1
+SUP_KR_00141,Hernandez Inc,KR,1
+SUP_KR_00142,Riggs PLC,KR,1
+SUP_CN_00143,Gibson Ltd,CN,1
+SUP_US_00144,"Lee, Horton and Snyder",US,1
+SUP_CN_00145,Hernandez Ltd,CN,1
+SUP_CN_00146,Stafford Inc,CN,1
+SUP_KR_00147,Robinson-Brock,KR,1
+SUP_DE_00148,"Holmes, Williams and Wright",DE,1
+SUP_CN_00149,Bryant Group,CN,1
+SUP_CN_00150,"Schmidt, Hansen and Stewart",CN,1
+SUP_XX_00151,Salazar-Ball,XX,1
+SUP_JP_00152,"Simmons, Meadows and Griffin",JP,1
+SUP_CN_00153,Manning Group,CN,1
+SUP_KR_00154,Green-Wright,KR,1
+SUP_CN_00155,"Ramirez, Strickland and Washington",CN,1
+SUP_CN_00156,Hill Inc,CN,1
+SUP_CN_00157,"Mitchell, Nelson and Flores",CN,1
+SUP_KR_00158,"Miller, Hernandez and Reyes",KR,1
+SUP_CN_00159,Mccarthy Inc,CN,1
+SUP_CN_00160,Russell-Daniels,CN,1
+SUP_CN_00161,Brown-Wall,CN,1
+SUP_JP_00162,Stein-Silva,JP,1
+SUP_CN_00163,"Smith, Gilmore and Johnston",CN,1
+SUP_XX_00164,Smith-Bell,XX,1
+SUP_US_00165,Castaneda-Ashley,US,1
+SUP_CN_00166,Medina-Navarro,CN,1
+SUP_CN_00167,"Hurst, Freeman and Nelson",CN,1
+SUP_JP_00168,Johnson-Rogers,JP,1
+SUP_CN_00169,"Yates, Ramsey and Pittman",CN,1
+SUP_CN_00170,Hooper PLC,CN,1
+SUP_XX_00171,Meadows PLC,XX,1
+SUP_KR_00172,"Alvarado, Miller and Patterson",KR,1
+SUP_KR_00173,White-Green,KR,1
+SUP_DE_00174,Lewis-Murphy,DE,1
+SUP_US_00175,Ramirez-Bean,US,1
+SUP_CN_00176,King-Miller,CN,1
+SUP_CN_00177,Curry Inc,CN,1
+SUP_CN_00178,Walker-Jones,CN,1
+SUP_CN_00179,"Williams, Johnson and Wright",CN,1
+SUP_KR_00180,Howell and Sons,KR,1
+SUP_DE_00181,Wells Inc,DE,1
+SUP_JP_00182,"Gould, Marshall and Scott",JP,1
+SUP_XX_00183,Jackson-Lawson,XX,1
+SUP_CN_00184,"Higgins, Strickland and Martin",CN,1
+SUP_CN_00185,Rodriguez-Johnson,CN,1
+SUP_CN_00186,Johnston-Odonnell,CN,1
+SUP_US_00187,Sanders-Espinoza,US,1
+SUP_CN_00188,Vargas Ltd,CN,1
+SUP_CN_00189,Garcia LLC,CN,1
+SUP_CN_00190,"Burke, Martinez and Riggs",CN,1
+SUP_CN_00191,Reed Group,CN,1
+SUP_CN_00192,"Wood, Hunter and Peterson",CN,1
+SUP_CN_00193,Short-Garcia,CN,1
+SUP_XX_00194,Reid-Poole,XX,1
+SUP_CN_00195,"Hernandez, Thompson and Boyd",CN,1
+SUP_US_00196,"Nelson, Morton and Medina",US,1
+SUP_KR_00197,Marshall-Petersen,KR,1
+SUP_CN_00198,"Adams, Christian and Rivas",CN,1
+SUP_XX_00199,Ramirez Group,XX,1
+SUP_US_00200,Christensen PLC,US,1
+SUP_XX_00201,"Barnett, Rogers and Snyder",XX,1
+SUP_XX_00202,White-Lewis,XX,1
+SUP_US_00203,Peterson-Beard,US,1
+SUP_CN_00204,"Beard, Peters and Black",CN,1
+SUP_KR_00205,Miller Ltd,KR,1
+SUP_CN_00206,Freeman-Chang,CN,1
+SUP_CN_00207,"Alvarez, Joseph and West",CN,1
+SUP_CN_00208,Davis and Sons,CN,1
+SUP_CN_00209,Holt-Torres,CN,1
+SUP_XX_00210,"Wood, Tran and Cooper",XX,1
+SUP_CN_00211,"Pierce, Bell and Chavez",CN,1
+SUP_DE_00212,King-Martinez,DE,1
+SUP_KR_00213,Stewart Ltd,KR,1
+SUP_CN_00214,"Tapia, Vaughn and Lee",CN,1
+SUP_XX_00215,"Washington, Hardy and Bray",XX,1
+SUP_XX_00216,"Carlson, Hooper and Wall",XX,1
+SUP_KR_00217,Perez-White,KR,1
+SUP_DE_00218,Erickson and Sons,DE,1
+SUP_CN_00219,Williams-Brown,CN,1
+SUP_CN_00220,Terry-Martinez,CN,1
+SUP_XX_00221,Garcia-Smith,XX,1
+SUP_KR_00222,Harrison-Alexander,KR,1
+SUP_KR_00223,Sheppard LLC,KR,1
+SUP_DE_00224,Wilson-Jones,DE,1
+SUP_CN_00225,Jones-Soto,CN,1
+SUP_KR_00226,Hernandez PLC,KR,1
+SUP_KR_00227,Miller-Wright,KR,1
+SUP_US_00228,"Duran, Obrien and Gibbs",US,1
+SUP_CN_00229,Rowe Group,CN,1
+SUP_XX_00230,Kerr-Evans,XX,1
+SUP_CN_00231,"Branch, Torres and Oliver",CN,1
+SUP_CN_00232,"Choi, Garcia and Farmer",CN,1
+SUP_KR_00233,"Clark, Guerrero and Moore",KR,1
+SUP_JP_00234,Arnold and Sons,JP,1
+SUP_CN_00235,Ortiz Ltd,CN,1
+SUP_CN_00236,"Harrison, Johnson and Roberts",CN,1
+SUP_US_00237,Warner-Gibson,US,1
+SUP_CN_00238,"Hall, Baker and Moody",CN,1
+SUP_KR_00239,"Guerrero, Peck and Coleman",KR,1
+SUP_JP_00240,"Walker, Hernandez and Baker",JP,1
+SUP_CN_00241,Jones and Sons,CN,1
+SUP_KR_00242,Larson-Holloway,KR,1
+SUP_KR_00243,Gonzales-Harrison,KR,1
+SUP_XX_00244,Lyons-Bender,XX,1
+SUP_CN_00245,"Fernandez, Kim and George",CN,1
+SUP_DE_00246,Navarro-Munoz,DE,1
+SUP_CN_00247,Davis Ltd,CN,1
+SUP_CN_00248,"Matthews, Smith and Hubbard",CN,1
+SUP_JP_00249,Johnston-Hines,JP,1
+SUP_CN_00250,Ruiz Ltd,CN,1
+SUP_CN_00251,Moon-White,CN,1
+SUP_DE_00252,"Graham, Olsen and Costa",DE,1
+SUP_CN_00253,Bailey-Cook,CN,1
+SUP_KR_00254,"Garcia, Martin and Jenkins",KR,1
+SUP_XX_00255,Roberts-Landry,XX,1
+SUP_XX_00256,"Johnson, Miller and King",XX,1
+SUP_CN_00257,Cordova Group,CN,1
+SUP_CN_00258,"Bryan, Smith and Booth",CN,1
+SUP_CN_00259,Gutierrez-Lopez,CN,1
+SUP_XX_00260,Dean-Jimenez,XX,1
+SUP_US_00261,Wolf-Harris,US,1
+SUP_US_00262,"Anderson, Roberts and Gilmore",US,1
+SUP_CN_00263,Martinez-Dudley,CN,1
+SUP_CN_00264,"Lloyd, Mckinney and Collins",CN,1
+SUP_US_00265,Tran Inc,US,1
+SUP_DE_00266,Gay Inc,DE,1
+SUP_JP_00267,Valentine-Holland,JP,1
+SUP_XX_00268,Jimenez Ltd,XX,1
+SUP_JP_00269,Hicks-Hill,JP,1
+SUP_CN_00270,Baird-Sanchez,CN,1
+SUP_US_00271,"Thomas, Lee and Greene",US,1
+SUP_CN_00272,"Suarez, Shields and Hill",CN,1
+SUP_JP_00273,Morgan-French,JP,1
+SUP_XX_00274,Hoover-Campbell,XX,1
+SUP_CN_00275,Monroe-Carpenter,CN,1
+SUP_CN_00276,"Burns, Hernandez and Ryan",CN,1
+SUP_CN_00277,Cook-Hines,CN,1
+SUP_KR_00278,Gibson-Morris,KR,1
+SUP_CN_00279,Pollard and Sons,CN,1
+SUP_JP_00280,"Reyes, Chase and Jenkins",JP,1
+SUP_DE_00281,Garner-Thornton,DE,1
+SUP_CN_00282,Hughes-Alvarado,CN,1
+SUP_JP_00283,"Pollard, Simpson and Johnson",JP,1
+SUP_CN_00284,"Sanford, Rivera and Garcia",CN,1
+SUP_KR_00285,Garcia-Lozano,KR,1
+SUP_XX_00286,Bowen Group,XX,1
+SUP_US_00287,"Booker, Jones and Harrington",US,1
+SUP_CN_00288,Morgan-Schwartz,CN,1
+SUP_CN_00289,"Miller, Murphy and Craig",CN,1
+SUP_CN_00290,"James, Stewart and Higgins",CN,1
+SUP_CN_00291,Brennan-Johnson,CN,1
+SUP_DE_00292,Young Ltd,DE,1
+SUP_JP_00293,Bright-Francis,JP,1
+SUP_CN_00294,Good-Hodges,CN,1
+SUP_DE_00295,"Brennan, Wallace and Benson",DE,1
+SUP_KR_00296,Williams Inc,KR,1
+SUP_CN_00297,Howard-Jordan,CN,1
+SUP_CN_00298,Schmidt PLC,CN,1
+SUP_CN_00299,"Sparks, Jackson and Miller",CN,1
+SUP_US_00300,Harvey-Allen,US,1
+SUP_XX_00301,"Thomas, Murray and King",XX,1
+SUP_KR_00302,Estrada-Nolan,KR,1
+SUP_US_00303,Santana-Byrd,US,1
+SUP_KR_00304,Jones LLC,KR,1
+SUP_CN_00305,"Evans, Hayden and Vaughn",CN,1
+SUP_CN_00306,Bruce-Gonzalez,CN,1
+SUP_CN_00307,Castaneda-Rodriguez,CN,1
+SUP_US_00308,Armstrong-Andrews,US,1
+SUP_DE_00309,"Phillips, Spence and Barrett",DE,1
+SUP_US_00310,Smith-Grimes,US,1
+SUP_US_00311,"Beltran, Lozano and Mcgee",US,1
+SUP_CN_00312,Parsons-Hall,CN,1
+SUP_CN_00313,Robinson-Lee,CN,1
+SUP_CN_00314,Byrd-Le,CN,1
+SUP_DE_00315,"Becker, Taylor and Davis",DE,1
+SUP_US_00316,"Lucas, Parker and Alexander",US,1
+SUP_CN_00317,"Diaz, Anderson and Browning",CN,1
+SUP_JP_00318,Burgess-Thompson,JP,1
+SUP_CN_00319,Buchanan LLC,CN,1
+SUP_XX_00320,"Shaw, Nelson and Martin",XX,1
+SUP_US_00321,Coffey-Phillips,US,1
+SUP_XX_00322,Brock-Mcdonald,XX,1
+SUP_US_00323,Taylor and Sons,US,1
+SUP_US_00324,"Ramsey, Whitney and Coffey",US,1
+SUP_CN_00325,"Diaz, Gibbs and Smith",CN,1
+SUP_DE_00326,"Martinez, Richardson and Curry",DE,1
+SUP_CN_00327,Richards-Carson,CN,1
+SUP_XX_00328,Rodriguez-Hall,XX,1
+SUP_US_00329,Harvey PLC,US,1
+SUP_US_00330,Herman-Walker,US,1
+SUP_US_00331,Reid Group,US,1
+SUP_CN_00332,"Turner, Ortiz and Taylor",CN,1
+SUP_DE_00333,Torres Group,DE,1
+SUP_CN_00334,Davis PLC,CN,1
+SUP_US_00335,Price LLC,US,1
+SUP_US_00336,"Avery, Horton and Fernandez",US,1
+SUP_CN_00337,"Newton, Moore and Perry",CN,1
+SUP_US_00338,Bass PLC,US,1
+SUP_KR_00339,Crosby-Ramirez,KR,1
+SUP_CN_00340,"Wood, Ramos and Sampson",CN,1
+SUP_DE_00341,Garcia-Jennings,DE,1
+SUP_CN_00342,"Winters, Newman and Brown",CN,1
+SUP_CN_00343,Lopez-Martinez,CN,1
+SUP_CN_00344,Davis-Lewis,CN,1
+SUP_CN_00345,"Harper, Smith and Buchanan",CN,1
+SUP_US_00346,Zhang PLC,US,1
+SUP_XX_00347,Jones PLC,XX,1
+SUP_CN_00348,Willis and Sons,CN,1
+SUP_JP_00349,Schroeder-Kramer,JP,1
+SUP_CN_00350,"Smith, Garrison and Thomas",CN,1
+SUP_XX_00351,Fernandez and Sons,XX,1
+SUP_KR_00352,Guerrero Inc,KR,1
+SUP_XX_00353,Smith and Sons,XX,1
+SUP_CN_00354,"Morris, Thompson and Williams",CN,1
+SUP_XX_00355,"Fisher, Wilson and Brown",XX,1
+SUP_CN_00356,Strickland-Palmer,CN,1
+SUP_XX_00357,Hayes and Sons,XX,1
+SUP_CN_00358,"Williams, Logan and Camacho",CN,1
+SUP_CN_00359,"Turner, Schneider and Johnson",CN,1
+SUP_CN_00360,Boone-Simmons,CN,1
+SUP_DE_00361,Henry Group,DE,1
+SUP_CN_00362,Lam LLC,CN,1
+SUP_JP_00363,"Hernandez, Martinez and Weber",JP,1
+SUP_KR_00364,"Kelley, Nguyen and Vang",KR,1
+SUP_CN_00365,"Phillips, Wagner and Jordan",CN,1
+SUP_KR_00366,"Wilson, Pena and Rich",KR,1
+SUP_CN_00367,"Le, Lewis and Hayes",CN,1
+SUP_DE_00368,Gutierrez Group,DE,1
+SUP_CN_00369,Perry-Davis,CN,1
+SUP_XX_00370,Edwards-Scott,XX,1
+SUP_KR_00371,Mcdaniel Group,KR,1
+SUP_DE_00372,Davis Inc,DE,1
+SUP_DE_00373,Reynolds Ltd,DE,1
+SUP_JP_00374,"Watson, Anderson and Brown",JP,1
+SUP_CN_00375,"Hoffman, Santiago and Jenkins",CN,1
+SUP_CN_00376,"Pugh, Henderson and Moon",CN,1
+SUP_JP_00377,Schmitt PLC,JP,1
+SUP_CN_00378,Bell-Lane,CN,1
+SUP_CN_00379,Moore Group,CN,1
+SUP_US_00380,Boone LLC,US,1
+SUP_DE_00381,"Richardson, Farmer and Andrews",DE,1
+SUP_CN_00382,Bruce-Villegas,CN,1
+SUP_CN_00383,"Austin, Day and Johnson",CN,1
+SUP_CN_00384,"Gallegos, Adams and White",CN,1
+SUP_CN_00385,"Farmer, Dorsey and Bell",CN,1
+SUP_CN_00386,Kane PLC,CN,1
+SUP_CN_00387,"Morales, Thomas and Schultz",CN,1
+SUP_CN_00388,Davis PLC,CN,1
+SUP_XX_00389,Bennett Group,XX,1
+SUP_JP_00390,Moore-Collins,JP,1
+SUP_XX_00391,Frank-Bradley,XX,1
+SUP_JP_00392,Ware and Sons,JP,1
+SUP_CN_00393,Webster Inc,CN,1
+SUP_KR_00394,"Miller, Ramos and Coleman",KR,1
+SUP_CN_00395,"Ramos, Nelson and Fischer",CN,1
+SUP_CN_00396,Reed Inc,CN,1
+SUP_CN_00397,Gregory-Watkins,CN,1
+SUP_KR_00398,"Estrada, Williams and Foster",KR,1
+SUP_JP_00399,"Brown, Harris and Dougherty",JP,1
+SUP_KR_00400,Duran LLC,KR,1
+SUP_CN_00401,Wilson-Jimenez,CN,1
+SUP_CN_00402,Thompson-James,CN,1
+SUP_KR_00403,"Hall, Hansen and Barnett",KR,1
+SUP_XX_00404,Jones-Hensley,XX,1
+SUP_DE_00405,Graham Group,DE,4
+SUP_CN_00406,Atkins PLC,CN,1
+SUP_CN_00407,Berry-Mckinney,CN,1
+SUP_KR_00408,Roberts-Sullivan,KR,1
+SUP_JP_00409,Jackson-Meza,JP,1
+SUP_CN_00410,Collier-Gillespie,CN,1
+SUP_US_00411,Kim Inc,US,1
+SUP_DE_00412,Graham Group,DE,1
+SUP_JP_00413,"Miller, Harrell and Reese",JP,1
+SUP_CN_00414,Cook and Sons,CN,1
+SUP_CN_00415,Dixon Inc,CN,1
+SUP_CN_00416,"Hicks, Bullock and Bailey",CN,1
+SUP_CN_00417,"Mullen, Brewer and Hernandez",CN,1
+SUP_KR_00418,Thomas and Sons,KR,1
+SUP_US_00419,Morrison Ltd,US,1
+SUP_CN_00420,Thompson Ltd,CN,1
+SUP_CN_00421,Marshall-Elliott,CN,1
+SUP_JP_00422,"Cole, Glass and Cunningham",JP,1
+SUP_CN_00423,"Downs, Morris and Maddox",CN,1
+SUP_JP_00424,Hernandez-Jones,JP,1
+SUP_KR_00425,Welch-Hogan,KR,1
+SUP_CN_00426,"Brown, Romero and Collins",CN,1
+SUP_JP_00427,Johnson-Wood,JP,1
+SUP_CN_00428,Jones-Lin,CN,1
+SUP_DE_00429,Gilbert PLC,DE,1
+SUP_DE_00430,Ford-Spencer,DE,1
+SUP_CN_00431,"Huang, Cole and Pacheco",CN,1
+SUP_CN_00432,"Lopez, Jacobs and Mason",CN,1
+SUP_CN_00433,Hayes LLC,CN,1
+SUP_XX_00434,"Miller, Lucas and Williams",XX,1
+SUP_KR_00435,"Kim, Gonzales and Mills",KR,1
+SUP_CN_00436,Cox LLC,CN,1
+SUP_CN_00437,Ortiz-Morgan,CN,1
+SUP_US_00438,"Williams, Mccoy and Cook",US,1
+SUP_KR_00439,Davis-Gregory,KR,1
+SUP_US_00440,King-York,US,1
+SUP_JP_00441,"Marks, Cook and Aguilar",JP,1
+SUP_XX_00442,Rangel LLC,XX,1
+SUP_KR_00443,"Hale, Myers and Larson",KR,1
+SUP_XX_00444,Collins Group,XX,1
+SUP_US_00445,"Conner, Li and Santiago",US,1
+SUP_JP_00446,"Osborn, Gaines and Davis",JP,1
+SUP_DE_00447,"Henderson, Cox and Cox",DE,1
+SUP_KR_00448,Bean LLC,KR,1
+SUP_US_00449,Lee-Cooke,US,1
+SUP_KR_00450,Jones Inc,KR,1
+SUP_US_00451,"Wise, Conley and Stephenson",US,1
+SUP_DE_00452,Stanley PLC,DE,1
+SUP_KR_00453,Harper and Sons,KR,1
+SUP_CN_00454,White Ltd,CN,1
+SUP_CN_00455,"Lamb, Martin and Kim",CN,1
+SUP_JP_00456,Diaz-Ball,JP,1
+SUP_DE_00457,Bishop-Goodwin,DE,1
+SUP_KR_00458,Young-Allen,KR,1
+SUP_JP_00459,Mckee-Lee,JP,1
+SUP_CN_00460,"Valentine, Joyce and Murray",CN,1
+SUP_CN_00461,Strickland-Shaw,CN,1
+SUP_CN_00462,Burch-Montoya,CN,1
+SUP_CN_00463,"Taylor, Wright and Davidson",CN,1
+SUP_CN_00464,Spencer-Garcia,CN,1
+SUP_KR_00465,"Rosales, Mitchell and Hines",KR,1
+SUP_CN_00466,Cole-Palmer,CN,1
+SUP_CN_00467,Davis-Lozano,CN,1
+SUP_JP_00468,Wilkerson-Arias,JP,1
+SUP_DE_00469,Brown-Shaw,DE,1
+SUP_CN_00470,Hughes Inc,CN,1
+SUP_CN_00471,Walker-Flores,CN,1
+SUP_KR_00472,Combs Ltd,KR,1
+SUP_CN_00473,Moody-Taylor,CN,1
+SUP_CN_00474,Lowery-Kennedy,CN,1
+SUP_CN_00475,Blake Group,CN,1
+SUP_XX_00476,Gilbert-Bullock,XX,1
+SUP_KR_00477,Scott and Sons,KR,1
+SUP_JP_00478,"Bentley, Lynch and Henderson",JP,1
+SUP_US_00479,Young-Martinez,US,1
+SUP_DE_00480,Barnes PLC,DE,1
+SUP_CN_00481,Brown-Copeland,CN,1
+SUP_CN_00482,Carlson-Smith,CN,1
+SUP_CN_00483,"Andrews, Higgins and Carter",CN,1
+SUP_DE_00484,Mendez and Sons,DE,1
+SUP_US_00485,"Butler, Beck and Miller",US,1
+SUP_XX_00486,Jones-Fox,XX,1
+SUP_CN_00487,"Hartman, Romero and Smith",CN,1
+SUP_DE_00488,Williams-Hughes,DE,1
+SUP_KR_00489,King-Smith,KR,1
+SUP_JP_00490,Cooper Ltd,JP,1
+SUP_CN_00491,"Fuller, Ingram and Moss",CN,1
+SUP_CN_00492,Anderson-Bell,CN,1
+SUP_CN_00493,Li-Thompson,CN,1
+SUP_CN_00494,"Marshall, Dominguez and Welch",CN,1
+SUP_CN_00495,Brown Group,CN,1
+SUP_JP_00496,Carter Inc,JP,1
+SUP_CN_00497,Blackwell LLC,CN,1
+SUP_CN_00498,Robertson-Hays,CN,1
+SUP_KR_00499,"Kennedy, Johnson and Lucas",KR,1
+SUP_CN_00500,Kelly-Norman,CN,1
+SUP_JP_00501,"Rivera, Martinez and Richardson",JP,1
+SUP_CN_00502,Paul-Kline,CN,1
+SUP_CN_00503,Morgan-Lopez,CN,1
+SUP_KR_00504,"Jimenez, Glass and Stone",KR,1
+SUP_CN_00505,Acosta Inc,CN,1
+SUP_JP_00506,Morrison-Short,JP,1
+SUP_CN_00507,"Carter, Garcia and Murphy",CN,1
+SUP_KR_00508,Parker-Morrison,KR,1
+SUP_CN_00509,Jackson-Wallace,CN,1
+SUP_CN_00510,Williams-Berg,CN,1
+SUP_CN_00511,Mendez-Graham,CN,1
+SUP_CN_00512,"Whitney, Gould and Jones",CN,1
+SUP_DE_00513,"Sullivan, Palmer and Brady",DE,1
+SUP_CN_00514,Cisneros and Sons,CN,1
+SUP_DE_00515,"Gregory, Kim and Martinez",DE,1
+SUP_US_00516,Osborne LLC,US,1
+SUP_CN_00517,Reyes-Bradley,CN,1
+SUP_CN_00518,"Hernandez, Cole and Watson",CN,1
+SUP_CN_00519,Hines-Berry,CN,1
+SUP_KR_00520,"Richardson, Edwards and Ramirez",KR,1
+SUP_XX_00521,Johnson and Sons,XX,1
+SUP_CN_00522,Holmes-Mcintyre,CN,1
+SUP_JP_00523,Green LLC,JP,1
+SUP_DE_00524,"Griffin, Davies and Mitchell",DE,1
+SUP_JP_00525,Gonzalez-Taylor,JP,1
+SUP_DE_00526,Hayes Ltd,DE,1
+SUP_XX_00527,Osborn-Cochran,XX,1
+SUP_CN_00528,Contreras-Mckinney,CN,1
+SUP_CN_00529,"Daniels, Vance and York",CN,1
+SUP_CN_00530,"Mckinney, Graves and Thompson",CN,1
+SUP_CN_00531,Hicks-Martinez,CN,1
+SUP_JP_00532,Conner and Sons,JP,1
+SUP_KR_00533,Johnson-Spencer,KR,1
+SUP_CN_00534,Mcdonald-Bird,CN,1
+SUP_JP_00535,Salazar Inc,JP,1
+SUP_DE_00536,Parker Ltd,DE,1
+SUP_CN_00537,"Mendoza, Jenkins and Ortiz",CN,1
+SUP_JP_00538,"Jones, Compton and Day",JP,1
+SUP_DE_00539,Owens-Holmes,DE,1
+SUP_CN_00540,Humphrey PLC,CN,1
+SUP_US_00541,"Matthews, Saunders and Anderson",US,1
+SUP_XX_00542,"Bartlett, Brown and Martinez",XX,1
+SUP_CN_00543,Torres and Sons,CN,1
+SUP_CN_00544,Donovan-Perez,CN,1
+SUP_CN_00545,"Jacobson, Singleton and King",CN,1
+SUP_JP_00546,"Huber, Hill and Weber",JP,1
+SUP_XX_00547,"Ferguson, Shaw and Jackson",XX,1
+SUP_CN_00548,"Moore, Hopkins and Le",CN,1
+SUP_DE_00549,"Morgan, Bradshaw and Williams",DE,1
+SUP_CN_00550,Miller Ltd,CN,1
+SUP_JP_00551,"Baker, Clark and Armstrong",JP,1
+SUP_JP_00552,"Fowler, Jimenez and Burton",JP,1
+SUP_CN_00553,May-Turner,CN,1
+SUP_DE_00554,Ballard Ltd,DE,1
+SUP_US_00555,Evans-Jones,US,1
+SUP_JP_00556,Moore Group,JP,1
+SUP_CN_00557,Marshall-Peterson,CN,1
+SUP_XX_00558,Edwards Ltd,XX,1
+SUP_DE_00559,Gross-Valencia,DE,1
+SUP_CN_00560,Anderson-Wood,CN,1
+SUP_CN_00561,"Rodriguez, Allen and Martinez",CN,1
+SUP_CN_00562,Wright-Davis,CN,1
+SUP_KR_00563,Dougherty-Lin,KR,1
+SUP_CN_00564,Wright-Grimes,CN,1
+SUP_US_00565,Li PLC,US,50
+SUP_US_00566,"Edwards, Hines and Jimenez",US,1
+SUP_CN_00567,"Owens, Koch and Jimenez",CN,1
+SUP_XX_00568,Landry PLC,XX,1
+SUP_JP_00569,Levy-Lewis,JP,1
+SUP_US_00570,Williams-Campbell,US,1
+SUP_DE_00571,"Khan, Pena and Ruiz",DE,1
+SUP_CN_00572,"Smith, Rodriguez and Anderson",CN,1
+SUP_DE_00573,Luna-Gallagher,DE,1
+SUP_XX_00574,Williams-Williams,XX,1
+SUP_CN_00575,"Lee, Tran and Jones",CN,1
+SUP_US_00576,"Cole, Pierce and Bryan",US,1
+SUP_KR_00577,"Becker, Wilson and Hester",KR,1
+SUP_KR_00578,Brooks-Hatfield,KR,1
+SUP_CN_00579,"Mcmillan, Fischer and Gonzalez",CN,1
+SUP_DE_00580,"Morales, Williams and Williams",DE,1
+SUP_CN_00581,"Cook, Wells and Bryant",CN,1
+SUP_US_00582,"Barry, Taylor and Velazquez",US,1
+SUP_US_00583,Martin-Ewing,US,1
+SUP_CN_00584,"Kirby, Wheeler and Romero",CN,1
+SUP_US_00585,"Patel, Erickson and Evans",US,1
+SUP_CN_00586,Richardson Ltd,CN,1
+SUP_KR_00587,Whitney PLC,KR,1
+SUP_JP_00588,Robles-Swanson,JP,1
+SUP_CN_00589,"Soto, Carlson and Baker",CN,1
+SUP_CN_00590,"Patton, Parsons and Lane",CN,1
+SUP_US_00591,"Williams, Castillo and Warren",US,1
+SUP_CN_00592,"Harvey, Randall and Hernandez",CN,1
+SUP_CN_00593,"Allen, Armstrong and Graves",CN,1
+SUP_DE_00594,Smith LLC,DE,1
+SUP_CN_00595,Hernandez-Vaughn,CN,1
+SUP_US_00596,Shaw-Carr,US,1
+SUP_DE_00597,Salas-Fitzgerald,DE,1
+SUP_CN_00598,Thornton PLC,CN,1
+SUP_CN_00599,Hoffman Ltd,CN,1
+SUP_XX_00600,Fox-Edwards,XX,1
+SUP_CN_00601,Stevens PLC,CN,1
+SUP_DE_00602,Payne-Lowe,DE,1
+SUP_KR_00603,"Becker, Lara and Baker",KR,1
+SUP_DE_00604,Lee-Wright,DE,1
+SUP_JP_00605,"Evans, David and Hendrix",JP,1
+SUP_JP_00606,Bush-Vaughn,JP,1
+SUP_KR_00607,Stewart-Bailey,KR,1
+SUP_DE_00608,"Hill, Martinez and Rhodes",DE,1
+SUP_CN_00609,Huang-Foster,CN,1
+SUP_CN_00610,Blevins-Ballard,CN,1
+SUP_JP_00611,Williams-Moses,JP,1
+SUP_CN_00612,Reed Group,CN,1
+SUP_KR_00613,"Scott, Mendoza and Harris",KR,1
+SUP_KR_00614,"Nelson, Hoffman and Nelson",KR,1
+SUP_KR_00615,Gilbert PLC,KR,1
+SUP_CN_00616,Sanchez Ltd,CN,1
+SUP_DE_00617,"Perez, Hall and Garcia",DE,1
+SUP_CN_00618,Love-Garcia,CN,1
+SUP_DE_00619,Smith PLC,DE,1
+SUP_CN_00620,Russell Group,CN,1
+SUP_CN_00621,Santos-Avila,CN,1
+SUP_CN_00622,Morris-Brewer,CN,1
+SUP_CN_00623,Pearson and Sons,CN,1
+SUP_CN_00624,"Rodgers, Jefferson and Johnson",CN,1
+SUP_KR_00625,Butler and Sons,KR,1
+SUP_DE_00626,Osborn Group,DE,1
+SUP_CN_00627,Lopez-Curry,CN,1
+SUP_CN_00628,Mcdowell-Smith,CN,1
+SUP_KR_00629,"Morrison, Hebert and Rogers",KR,1
+SUP_DE_00630,Hays-Daniels,DE,1
+SUP_XX_00631,Small-Anderson,XX,1
+SUP_KR_00632,"Mcdonald, Lee and Rodriguez",KR,1
+SUP_CN_00633,Simon Ltd,CN,1
+SUP_CN_00634,Higgins-Smith,CN,1
+SUP_CN_00635,Gibbs-Bradley,CN,1
+SUP_CN_00636,Thompson Ltd,CN,1
+SUP_CN_00637,Wilcox-Robertson,CN,1
+SUP_CN_00638,Morales Inc,CN,1
+SUP_KR_00639,Holden Group,KR,1
+SUP_CN_00640,Boyle-Smith,CN,1
+SUP_XX_00641,Young-Molina,XX,1
+SUP_KR_00642,Turner-Sharp,KR,1
+SUP_JP_00643,Green LLC,JP,1
+SUP_CN_00644,"Young, Contreras and Marshall",CN,1
+SUP_US_00645,Sullivan PLC,US,1
+SUP_KR_00646,"Carrillo, Vaughn and Fowler",KR,1
+SUP_US_00647,Richardson-Walker,US,1
+SUP_KR_00648,Mendoza Group,KR,1
+SUP_KR_00649,"Zhang, Brooks and Miles",KR,1
+SUP_CN_00650,Todd-Pham,CN,1
+SUP_CN_00651,Gill Ltd,CN,1
+SUP_CN_00652,"Marks, Miller and Griffin",CN,1
+SUP_XX_00653,"Cox, Stark and Rodriguez",XX,1
+SUP_KR_00654,"Leach, Harris and Herrera",KR,1
+SUP_US_00655,Murphy PLC,US,1
+SUP_CN_00656,Wilson-Harris,CN,1
+SUP_CN_00657,"Burns, Nolan and Griffin",CN,1
+SUP_JP_00658,Chavez PLC,JP,1
+SUP_CN_00659,Bryant-Brown,CN,1
+SUP_CN_00660,Chambers-Parker,CN,1
+SUP_KR_00661,Foster Inc,KR,1
+SUP_CN_00662,"Robinson, Jones and Henderson",CN,1
+SUP_XX_00663,"Brown, Mcknight and Michael",XX,1
+SUP_CN_00664,Andersen Group,CN,1
+SUP_DE_00665,Mitchell and Sons,DE,1
+SUP_JP_00666,Cannon Ltd,JP,1
+SUP_DE_00667,"Stuart, Brooks and Vance",DE,1
+SUP_CN_00668,Kane-Knox,CN,1
+SUP_KR_00669,Miller-Brandt,KR,1
+SUP_KR_00670,"Anderson, Dalton and Wilson",KR,1
+SUP_CN_00671,"Long, Anderson and Irwin",CN,1
+SUP_US_00672,Avila LLC,US,1
+SUP_XX_00673,Nunez-Stephens,XX,1
+SUP_CN_00674,"Gray, Hall and Murray",CN,1
+SUP_JP_00675,Hill Ltd,JP,1
+SUP_JP_00676,Johnson Ltd,JP,1
+SUP_DE_00677,Mendez-Mayer,DE,1
+SUP_XX_00678,Allen Inc,XX,1
+SUP_CN_00679,Wheeler Group,CN,1
+SUP_CN_00680,"Powers, Brennan and Sanchez",CN,1
+SUP_JP_00681,Morales and Sons,JP,1
+SUP_CN_00682,"Robinson, Shields and Brown",CN,1
+SUP_CN_00683,"Holder, Young and Hendricks",CN,1
+SUP_CN_00684,"Flores, Harper and Chambers",CN,1
+SUP_CN_00685,Young-Walter,CN,1
+SUP_KR_00686,"Boyd, Gutierrez and Hill",KR,1
+SUP_KR_00687,"Fry, Hobbs and Buck",KR,1
+SUP_CN_00688,"Shelton, Peters and Williams",CN,1
+SUP_CN_00689,David-Powers,CN,1
+SUP_DE_00690,"Flores, Butler and Hernandez",DE,1
+SUP_DE_00691,White-Medina,DE,1
+SUP_KR_00692,Atkinson LLC,KR,1
+SUP_JP_00693,"Thomas, Ford and Brown",JP,1
+SUP_XX_00694,Faulkner-Grant,XX,1
+SUP_DE_00695,Price LLC,DE,1
+SUP_JP_00696,Rivera Inc,JP,1
+SUP_JP_00697,Boone-Davis,JP,1
+SUP_XX_00698,"Calderon, Williams and Bennett",XX,1
+SUP_CN_00699,"Morrison, Russo and Lopez",CN,1
+SUP_KR_00700,"Ramsey, Hansen and Mendoza",KR,1
+SUP_JP_00701,Turner-Stout,JP,1
+SUP_XX_00702,Giles Ltd,XX,1
+SUP_US_00703,Burgess Group,US,1
+SUP_CN_00704,Dominguez Ltd,CN,1
+SUP_CN_00705,Sanders and Sons,CN,1
+SUP_CN_00706,"Morris, Campbell and Owens",CN,1
+SUP_DE_00707,"Howard, Green and Hunt",DE,1
+SUP_KR_00708,Owens-Lang,KR,1
+SUP_CN_00709,"Harrison, Franco and Rocha",CN,1
+SUP_CN_00710,Edwards-Williams,CN,1
+SUP_JP_00711,Figueroa Inc,JP,1
+SUP_JP_00712,Tran-Silva,JP,1
+SUP_XX_00713,"Butler, Hernandez and Rivera",XX,1
+SUP_KR_00714,Hudson-Sanchez,KR,1
+SUP_KR_00715,"Pena, Cohen and Scott",KR,1
+SUP_CN_00716,Levy-May,CN,1
+SUP_CN_00717,Murray-Oconnor,CN,1
+SUP_CN_00718,Jackson-Cortez,CN,1
+SUP_CN_00719,White-Preston,CN,1
+SUP_CN_00720,"Bernard, Warren and Combs",CN,1
+SUP_CN_00721,Landry Ltd,CN,1
+SUP_XX_00722,Duran Group,XX,1
+SUP_US_00723,Kirby and Sons,US,1
+SUP_KR_00724,Mann Inc,KR,1
+SUP_XX_00725,Wagner LLC,XX,1
+SUP_XX_00726,Williamson Ltd,XX,1
+SUP_JP_00727,"Durham, Hopkins and Smith",JP,1
+SUP_CN_00728,"Arnold, Smith and Moreno",CN,1
+SUP_CN_00729,Nichols-Mitchell,CN,1
+SUP_DE_00730,"Li, Craig and Drake",DE,1
+SUP_KR_00731,Rodriguez Inc,KR,1
+SUP_JP_00732,"Hernandez, Lee and Fox",JP,1
+SUP_XX_00733,Adams-Sanders,XX,1
+SUP_CN_00734,Chung-Stevens,CN,1
+SUP_KR_00735,Branch and Sons,KR,1
+SUP_JP_00736,Sutton-Abbott,JP,1
+SUP_KR_00737,"Frey, Santos and Johnson",KR,1
+SUP_CN_00738,Gray-Tran,CN,1
+SUP_CN_00739,Walsh Ltd,CN,1
+SUP_CN_00740,Miller Group,CN,1
+SUP_JP_00741,"Mueller, Knight and Hodge",JP,1
+SUP_US_00742,Jacobson Inc,US,1
+SUP_CN_00743,Lewis Ltd,CN,1
+SUP_JP_00744,"Alvarez, Williams and Jones",JP,1
+SUP_CN_00745,Lam-Elliott,CN,1
+SUP_XX_00746,White LLC,XX,1
+SUP_US_00747,Ali PLC,US,1
+SUP_KR_00748,Goodwin Ltd,KR,1
+SUP_KR_00749,Hickman-Evans,KR,1
+SUP_CN_00750,"Allen, Davenport and Price",CN,1
+SUP_CN_00751,"Rivera, Campos and Taylor",CN,1
+SUP_XX_00752,"Ramsey, Mason and Mccann",XX,1
+SUP_CN_00753,Davis and Sons,CN,1
+SUP_KR_00754,Peterson PLC,KR,1
+SUP_XX_00755,"Sanders, Ayala and Johnson",XX,1
+SUP_JP_00756,Bowers-Hayes,JP,1
+SUP_KR_00757,Kelly Group,KR,1
+SUP_CN_00758,Lopez-Willis,CN,1
+SUP_CN_00759,Miller-Montgomery,CN,1
+SUP_CN_00760,Marquez Inc,CN,1
+SUP_DE_00761,Moore-Dawson,DE,1
+SUP_JP_00762,"Moore, Price and Ward",JP,1
+SUP_DE_00763,Smith LLC,DE,1
+SUP_CN_00764,Ward-Nelson,CN,1
+SUP_KR_00765,Miller Group,KR,1
+SUP_XX_00766,Hawkins-Hunt,XX,1
+SUP_CN_00767,Johnson LLC,CN,1
+SUP_JP_00768,"Davis, George and Nguyen",JP,1
+SUP_CN_00769,Smith-Gutierrez,CN,1
+SUP_XX_00770,Hardy PLC,XX,1
+SUP_JP_00771,Armstrong and Sons,JP,1
+SUP_CN_00772,"James, Taylor and Turner",CN,1
+SUP_CN_00773,Thomas-Jackson,CN,1
+SUP_KR_00774,Fisher-Washington,KR,1
+SUP_KR_00775,Ward and Sons,KR,1
+SUP_CN_00776,"Weber, Wheeler and Gonzalez",CN,1
+SUP_XX_00777,Taylor Inc,XX,1
+SUP_XX_00778,Cook-Oliver,XX,1
+SUP_KR_00779,Alexander-Jordan,KR,1
+SUP_CN_00780,"Mccann, Taylor and Flores",CN,1
+SUP_US_00781,"Harris, Edwards and Oconnell",US,1
+SUP_KR_00782,Carter-Neal,KR,1
+SUP_DE_00783,Faulkner-Casey,DE,1
+SUP_KR_00784,Bennett-Velasquez,KR,1
+SUP_CN_00785,Diaz-Frederick,CN,1
+SUP_US_00786,Vargas PLC,US,1
+SUP_XX_00787,Maldonado PLC,XX,1
+SUP_CN_00788,Benton Group,CN,1
+SUP_KR_00789,"Clark, Salinas and Guerra",KR,1
+SUP_CN_00790,Fuentes Group,CN,1
+SUP_XX_00791,"Porter, Schultz and Allen",XX,1
+SUP_KR_00792,"Moore, Henderson and Bennett",KR,1
+SUP_US_00793,Ewing-Mendoza,US,1
+SUP_US_00794,Ferguson-Mclean,US,1
+SUP_CN_00795,"Barnes, Johnson and Schmitt",CN,1
+SUP_DE_00796,"Woodard, Herrera and Little",DE,1
+SUP_CN_00797,Rodriguez and Sons,CN,1
+SUP_XX_00798,"Ortega, Jackson and Salazar",XX,1
+SUP_KR_00799,"Terrell, Byrd and Ross",KR,1
+SUP_US_00800,Sheppard-Jordan,US,1
+SUP_CN_00801,Garcia and Sons,CN,1
+SUP_CN_00802,"Burgess, Grant and Watts",CN,1
+SUP_KR_00803,Griffin Group,KR,1
+SUP_XX_00804,Barton-Chapman,XX,1
+SUP_KR_00805,"Hernandez, Cuevas and Webb",KR,1
+SUP_CN_00806,Perry-Nixon,CN,1
+SUP_KR_00807,Guerra Ltd,KR,1
+SUP_CN_00808,Bailey LLC,CN,1
+SUP_KR_00809,Mueller-Boyd,KR,1
+SUP_KR_00810,Alvarez-Kim,KR,1
+SUP_KR_00811,"Chavez, Jones and Williams",KR,1
+SUP_CN_00812,"Wilson, Sweeney and Wong",CN,1
+SUP_CN_00813,"Marsh, Spears and Yang",CN,1
+SUP_JP_00814,"Thompson, Moore and Castro",JP,1
+SUP_KR_00815,Hall-Sullivan,KR,1
+SUP_CN_00816,Lopez Ltd,CN,1
+SUP_DE_00817,Foster-Mclaughlin,DE,1
+SUP_CN_00818,Cole Group,CN,1
+SUP_DE_00819,Smith-Lewis,DE,1
+SUP_DE_00820,Goodwin-Stokes,DE,1
+SUP_US_00821,Ray PLC,US,1
+SUP_CN_00822,Diaz and Sons,CN,1
+SUP_JP_00823,Wilson-Lambert,JP,1
+SUP_US_00824,Rose-Fowler,US,1
+SUP_XX_00825,"Price, Long and Wilson",XX,1
+SUP_KR_00826,Bruce-Williamson,KR,1
+SUP_CN_00827,"Mccarthy, Evans and Mendez",CN,1
+SUP_KR_00828,Powers LLC,KR,1
+SUP_KR_00829,Allen Inc,KR,1
+SUP_US_00830,Brooks and Sons,US,1
+SUP_US_00831,"Price, Carlson and Andrews",US,1
+SUP_CN_00832,Lopez-Reid,CN,1
+SUP_KR_00833,"Ellison, Arias and Thompson",KR,1
+SUP_KR_00834,Burns and Sons,KR,1
+SUP_DE_00835,Edwards Group,DE,1
+SUP_CN_00836,"Brown, Howard and Smith",CN,1
+SUP_JP_00837,Lee Group,JP,1
+SUP_CN_00838,"Wagner, Simpson and Cohen",CN,1
+SUP_KR_00839,Mckinney-Wallace,KR,1
+SUP_XX_00840,Miller Inc,XX,1
+SUP_CN_00841,Carter LLC,CN,1
+SUP_JP_00842,Medina and Sons,JP,1
+SUP_JP_00843,Cunningham-Barton,JP,1
+SUP_US_00844,Dunn-Wilson,US,1
+SUP_US_00845,Adams PLC,US,1
+SUP_US_00846,Weaver-Sherman,US,1
+SUP_CN_00847,"Alexander, Robinson and Coleman",CN,1
+SUP_CN_00848,"Greer, Potter and Evans",CN,1
+SUP_DE_00849,Cole LLC,DE,1
+SUP_DE_00850,Gonzales Inc,DE,1
+SUP_US_00851,Clark Ltd,US,1
+SUP_CN_00852,"Norris, Callahan and Bishop",CN,1
+SUP_CN_00853,Martin-Taylor,CN,1
+SUP_JP_00854,Li Inc,JP,1
+SUP_XX_00855,"Bell, Campbell and Ryan",XX,1
+SUP_XX_00856,Werner-Carter,XX,1
+SUP_DE_00857,"Adams, Hodge and Duke",DE,1
+SUP_CN_00858,"Ochoa, Taylor and Brady",CN,1
+SUP_CN_00859,Sellers-Riddle,CN,1
+SUP_JP_00860,"Martinez, Cline and Wright",JP,1
+SUP_US_00861,"Morris, Wright and Bridges",US,1
+SUP_CN_00862,Burns-Ray,CN,1
+SUP_JP_00863,Burton-Brooks,JP,1
+SUP_XX_00864,Schultz Inc,XX,1
+SUP_CN_00865,Robertson-Ramirez,CN,1
+SUP_DE_00866,Gibson-Freeman,DE,1
+SUP_CN_00867,"Smith, Schroeder and Oconnor",CN,1
+SUP_CN_00868,"Stanton, Reid and Terry",CN,1
+SUP_CN_00869,Flynn Group,CN,1
+SUP_KR_00870,Donaldson and Sons,KR,1
+SUP_KR_00871,Adams-Clayton,KR,1
+SUP_DE_00872,Kelley-Anderson,DE,1
+SUP_CN_00873,Kramer-Shannon,CN,1
+SUP_CN_00874,Williams Ltd,CN,1
+SUP_US_00875,Smith-Noble,US,1
+SUP_JP_00876,Alexander Inc,JP,1
+SUP_CN_00877,Harris-Barker,CN,1
+SUP_XX_00878,Khan LLC,XX,1
+SUP_CN_00879,Baxter LLC,CN,1
+SUP_KR_00880,Pena LLC,KR,1
+SUP_CN_00881,Watson Ltd,CN,1
+SUP_CN_00882,Williams Ltd,CN,1
+SUP_CN_00883,Barber-Fischer,CN,1
+SUP_US_00884,Rios-Padilla,US,1
+SUP_XX_00885,Lewis Inc,XX,1
+SUP_JP_00886,Wheeler PLC,JP,1
+SUP_CN_00887,"Wallace, Smith and Cooper",CN,1
+SUP_CN_00888,Mcneil Group,CN,1
+SUP_CN_00889,"Anderson, Jones and Reyes",CN,1
+SUP_KR_00890,"Shaffer, Garcia and Richardson",KR,1
+SUP_JP_00891,Taylor-Ayala,JP,1
+SUP_CN_00892,May Ltd,CN,1
+SUP_CN_00893,Jones PLC,CN,1
+SUP_US_00894,Bishop and Sons,US,1
+SUP_CN_00895,Bell-Lewis,CN,1
+SUP_CN_00896,"Hernandez, Jenkins and Parks",CN,1
+SUP_KR_00897,Miller Inc,KR,1
+SUP_CN_00898,Goodwin PLC,CN,1
+SUP_KR_00899,"Cruz, Richmond and Edwards",KR,1
+SUP_KR_00900,Wright Ltd,KR,1
+SUP_XX_00901,Wright PLC,XX,1
+SUP_CN_00902,"Griffith, Mitchell and Pugh",CN,1
+SUP_XX_00903,Abbott Ltd,XX,1
+SUP_JP_00904,Harris-Lawson,JP,1
+SUP_CN_00905,Adkins LLC,CN,1
+SUP_KR_00906,"Brown, Hurst and Blevins",KR,1
+SUP_JP_00907,Cruz-Allen,JP,1
+SUP_DE_00908,"Wheeler, Rice and Levine",DE,1
+SUP_CN_00909,Peck-Anderson,CN,1
+SUP_JP_00910,"Fisher, Payne and Thompson",JP,1
+SUP_KR_00911,Best-Townsend,KR,1
+SUP_XX_00912,Matthews Inc,XX,1
+SUP_CN_00913,Lewis-Livingston,CN,1
+SUP_DE_00914,Hunter-Fuller,DE,1
+SUP_JP_00915,"Wang, Henderson and Morales",JP,1
+SUP_CN_00916,"Herrera, Jensen and Ramirez",CN,1
+SUP_JP_00917,Miller-Mccall,JP,1
+SUP_JP_00918,Herrera Group,JP,1
+SUP_JP_00919,"Walters, Davenport and Becker",JP,1
+SUP_DE_00920,Collins Group,DE,1
+SUP_JP_00921,"Ashley, Allen and Sanchez",JP,1
+SUP_US_00922,Wilson-Salazar,US,1
+SUP_JP_00923,Parker Ltd,JP,1
+SUP_XX_00924,"Yang, Wilson and Zimmerman",XX,1
+SUP_JP_00925,"Smith, Crawford and Reed",JP,1
+SUP_CN_00926,"Logan, Le and Jackson",CN,1
+SUP_CN_00927,Brady LLC,CN,1
+SUP_KR_00928,"Tanner, Wise and Johnson",KR,1
+SUP_DE_00929,Nelson-Brown,DE,1
+SUP_CN_00930,"Proctor, Burton and Crawford",CN,1
+SUP_CN_00931,"Ward, Porter and Bradley",CN,1
+SUP_DE_00932,Moore-Ayala,DE,1
+SUP_CN_00933,"Craig, Wilson and Yang",CN,1
+SUP_CN_00934,Williams Inc,CN,1
+SUP_KR_00935,Williams LLC,KR,1
+SUP_XX_00936,Mora-White,XX,1
+SUP_KR_00937,Tran Ltd,KR,1
+SUP_XX_00938,"Rios, Walker and Wright",XX,1
+SUP_US_00939,"Flores, Mckenzie and Duncan",US,1
+SUP_CN_00940,Shaw Inc,CN,1
+SUP_US_00941,Walker PLC,US,1
+SUP_KR_00942,Finley Inc,KR,1
+SUP_US_00943,Cline-Ayala,US,1
+SUP_DE_00944,Murphy-Tran,DE,1
+SUP_CN_00945,Wood LLC,CN,1
+SUP_CN_00946,"Mueller, Stevenson and Sanchez",CN,1
+SUP_XX_00947,Vargas-Snyder,XX,1
+SUP_CN_00948,Oconnor PLC,CN,1
+SUP_XX_00949,Hernandez Group,XX,1
+SUP_US_00950,Hall LLC,US,1
+SUP_DE_00951,"Franco, Wiley and Tapia",DE,1
+SUP_XX_00952,Blake Group,XX,1
+SUP_XX_00953,"Acosta, Garcia and Moreno",XX,1
+SUP_US_00954,Barnes Inc,US,1
+SUP_CN_00955,Dawson Inc,CN,1
+SUP_DE_00956,Morse PLC,DE,1
+SUP_CN_00957,Haynes-Watson,CN,1
+SUP_KR_00958,"Miller, Davis and Anderson",KR,1
+SUP_KR_00959,Jones-Bradley,KR,1
+SUP_JP_00960,Bates-Anderson,JP,1
+SUP_JP_00961,Green-Edwards,JP,1
+SUP_KR_00962,Haynes-Moss,KR,1
+SUP_US_00963,Chavez-Hall,US,1
+SUP_XX_00964,Taylor PLC,XX,1
+SUP_CN_00965,Moore and Sons,CN,1
+SUP_CN_00966,Owens-Russell,CN,1
+SUP_CN_00967,"Howard, Townsend and Hayes",CN,1
+SUP_US_00968,Baker-Wilson,US,1
+SUP_KR_00969,Aguirre LLC,KR,1
+SUP_XX_00970,"Terry, Williams and Huff",XX,1
+SUP_CN_00971,Hernandez-Dawson,CN,1
+SUP_CN_00972,Foster-Williams,CN,1
+SUP_US_00973,Green-Ewing,US,1
+SUP_XX_00974,Crane Group,XX,1
+SUP_CN_00975,"Adkins, Wright and Murray",CN,1
+SUP_CN_00976,Martinez Inc,CN,1
+SUP_CN_00977,Anderson Group,CN,1
+SUP_XX_00978,Parks-Pace,XX,1
+SUP_CN_00979,Aguilar LLC,CN,1
+SUP_KR_00980,Johnson Inc,KR,1
+SUP_CN_00981,Orr Group,CN,1
+SUP_US_00982,Davis LLC,US,1
+SUP_CN_00983,Williams Group,CN,1
+SUP_KR_00984,Jackson PLC,KR,1
+SUP_JP_00985,Underwood-Foster,JP,1
+SUP_DE_00986,Reyes Group,DE,1
+SUP_XX_00987,Gomez and Sons,XX,1
+SUP_CN_00988,Ramirez-Stephenson,CN,1
+SUP_DE_00989,Mendez PLC,DE,1
+SUP_CN_00990,Holland Group,CN,1
+SUP_CN_00991,Andrade-Mendoza,CN,1
+SUP_CN_00992,Ramirez and Sons,CN,1
+SUP_KR_00993,Gonzalez-Wilkerson,KR,1
+SUP_CN_00994,"Wright, Mcknight and Stephens",CN,1
+SUP_XX_00995,Mayo Ltd,XX,1
+SUP_CN_00996,Castillo-Harrington,CN,1
+SUP_CN_00997,Durham-Shaw,CN,1
+SUP_CN_00998,Nelson-Johnson,CN,1
+SUP_XX_00999,"Robinson, Huang and Osborne",XX,1
+SUP_US_01000,Stokes Group,US,1
+SUP_CN_01001,"Howard, Silva and Hall",CN,1
+SUP_JP_01002,Garcia Ltd,JP,1
+SUP_KR_01003,Adams Ltd,KR,1
+SUP_XX_01004,Gallagher and Sons,XX,1
+SUP_CN_01005,"Bradford, Salinas and Kelly",CN,1
+SUP_CN_01006,Thompson PLC,CN,1
+SUP_CN_01007,Drake-Wolfe,CN,1
+SUP_CN_01008,"Johnson, Haynes and Meza",CN,1
+SUP_US_01009,"Thomas, Vaughan and Copeland",US,1
+SUP_KR_01010,Weaver-Thompson,KR,1
+SUP_JP_01011,Davis and Sons,JP,1
+SUP_JP_01012,"Robinson, Fox and Smith",JP,1
+SUP_KR_01013,"Harris, Anderson and Love",KR,1
+SUP_CN_01014,Brown-Hernandez,CN,1
+SUP_DE_01015,"Stark, Schroeder and Mathis",DE,1
+SUP_CN_01016,Yu-Brooks,CN,1
+SUP_CN_01017,"Foster, Garcia and Turner",CN,1
+SUP_KR_01018,Daugherty Ltd,KR,1
+SUP_CN_01019,Conner-Yu,CN,1
+SUP_DE_01020,"Stewart, Mann and Hoffman",DE,1
+SUP_CN_01021,"Buchanan, Walker and Chapman",CN,1
+SUP_CN_01022,Gray Ltd,CN,1
+SUP_US_01023,"Phillips, Thompson and Smith",US,1
+SUP_CN_01024,"Fry, Myers and Gamble",CN,1
+SUP_CN_01025,"Johnson, Guzman and Mccall",CN,1
+SUP_XX_01026,"Walker, Cunningham and Zuniga",XX,1
+SUP_CN_01027,Rivera Inc,CN,1
+SUP_US_01028,Reed LLC,US,1
+SUP_CN_01029,Fields Inc,CN,1
+SUP_CN_01030,"Santiago, Daniel and Rogers",CN,1
+SUP_CN_01031,Baker and Sons,CN,1
+SUP_CN_01032,"Jones, Scott and Rodriguez",CN,1
+SUP_JP_01033,Williams Group,JP,1
+SUP_CN_01034,"Barnes, Jackson and Gutierrez",CN,1
+SUP_CN_01035,Bell-Bennett,CN,1
+SUP_DE_01036,Kramer-Lane,DE,1
+SUP_CN_01037,"Perez, Hayes and Lloyd",CN,1
+SUP_CN_01038,Phillips LLC,CN,1
+SUP_CN_01039,Lynn-Jones,CN,1
+SUP_CN_01040,Barron and Sons,CN,1
+SUP_DE_01041,"Jones, Mcmahon and Spence",DE,1
+SUP_KR_01042,Wheeler-Austin,KR,1
+SUP_DE_01043,Bush-Reynolds,DE,1
+SUP_KR_01044,"Martin, Preston and Moore",KR,1
+SUP_DE_01045,Rivera and Sons,DE,1
+SUP_KR_01046,Terry-Bowen,KR,1
+SUP_CN_01047,"Fernandez, Guerrero and Evans",CN,1
+SUP_KR_01048,Williams PLC,KR,1
+SUP_XX_01049,"Larsen, Hernandez and Ward",XX,1
+SUP_CN_01050,Miller-Colon,CN,1
+SUP_DE_01051,"Greene, Gonzalez and Johnson",DE,1
+SUP_US_01052,Little Inc,US,1
+SUP_KR_01053,Anthony-Parker,KR,1
+SUP_KR_01054,Ruiz-Jacobson,KR,1
+SUP_XX_01055,Davis-Stephens,XX,1
+SUP_CN_01056,Watson Group,CN,1
+SUP_KR_01057,Lopez-Williams,KR,1
+SUP_CN_01058,Marshall-Perez,CN,1
+SUP_JP_01059,Elliott-Hernandez,JP,1
+SUP_KR_01060,"Contreras, Miller and Cooper",KR,1
+SUP_XX_01061,"Gutierrez, Avila and Perez",XX,1
+SUP_CN_01062,Randall PLC,CN,1
+SUP_CN_01063,Sheppard-Mcdaniel,CN,1
+SUP_JP_01064,Armstrong-Young,JP,1
+SUP_CN_01065,Miller-Orr,CN,1
+SUP_CN_01066,"Johnson, Duncan and Black",CN,1
+SUP_JP_01067,"Byrd, Oliver and Martinez",JP,1
+SUP_KR_01068,Thompson-Joyce,KR,1
+SUP_CN_01069,Stokes and Sons,CN,1
+SUP_XX_01070,Henderson Ltd,XX,1
+SUP_KR_01071,Harris-Carson,KR,1
+SUP_KR_01072,Flowers LLC,KR,1
+SUP_JP_01073,Bartlett-Sloan,JP,1
+SUP_CN_01074,Miller PLC,CN,1
+SUP_DE_01075,Arnold-Gates,DE,1
+SUP_US_01076,"Ellis, Marks and Buchanan",US,1
+SUP_JP_01077,"Matthews, Harrington and Rodriguez",JP,1
+SUP_DE_01078,Hernandez PLC,DE,1
+SUP_DE_01079,"Chang, Ayers and Buckley",DE,1
+SUP_CN_01080,"Chan, Floyd and Dillon",CN,1
+SUP_KR_01081,Humphrey-Baker,KR,1
+SUP_CN_01082,"Washington, Lynch and Johnson",CN,1
+SUP_CN_01083,Powell-Montgomery,CN,1
+SUP_KR_01084,"Steele, Williams and Preston",KR,1
+SUP_CN_01085,Vaughn-Williams,CN,1
+SUP_CN_01086,Mccall-Prince,CN,1
+SUP_CN_01087,Morgan LLC,CN,1
+SUP_JP_01088,Ramirez-Vasquez,JP,1
+SUP_CN_01089,"Cohen, Compton and Perez",CN,1
+SUP_CN_01090,Mccann-Ramos,CN,1
+SUP_XX_01091,Adams-Butler,XX,1
+SUP_CN_01092,"Davis, Alexander and Mcintyre",CN,1
+SUP_US_01093,Figueroa-Malone,US,1
+SUP_CN_01094,Nicholson-Robertson,CN,1
+SUP_CN_01095,Jones Ltd,CN,1
+SUP_DE_01096,"Powell, Deleon and Warren",DE,1
+SUP_US_01097,"Johnson, Lee and Whitaker",US,1
+SUP_KR_01098,Wright Group,KR,1
+SUP_KR_01099,Hull Ltd,KR,1
+SUP_KR_01100,Hill Group,KR,1
+SUP_CN_01101,"Sanders, Leblanc and Maldonado",CN,1
+SUP_CN_01102,Watson PLC,CN,1
+SUP_CN_01103,Thompson-Harrell,CN,1
+SUP_JP_01104,"Arnold, Cooper and Monroe",JP,1
+SUP_DE_01105,Curry-Barker,DE,1
+SUP_US_01106,Johnson-Williams,US,1
+SUP_DE_01107,"Chan, Lewis and Walker",DE,1
+SUP_XX_01108,Byrd LLC,XX,1
+SUP_JP_01109,"Ortiz, Smith and Deleon",JP,1
+SUP_CN_01110,"Smith, Buck and Holland",CN,1
+SUP_KR_01111,"Owen, Walker and Franklin",KR,1
+SUP_CN_01112,Marquez-Fletcher,CN,1
+SUP_JP_01113,Coleman-Bennett,JP,1
+SUP_CN_01114,Stevens-Robinson,CN,1
+SUP_CN_01115,Byrd-Holloway,CN,1
+SUP_US_01116,Silva-Smith,US,1
+SUP_CN_01117,"Levy, Franco and Hoffman",CN,1
+SUP_DE_01118,"Lynch, Evans and Rodriguez",DE,1
+SUP_KR_01119,Rogers LLC,KR,1
+SUP_US_01120,"Nguyen, Hill and Douglas",US,1
+SUP_US_01121,"Evans, Hernandez and Cannon",US,1
+SUP_XX_01122,Trujillo PLC,XX,1
+SUP_US_01123,Guerrero-Becker,US,1
+SUP_JP_01124,"Johnson, Jimenez and Phillips",JP,1
+SUP_JP_01125,Sullivan-Doyle,JP,1
+SUP_CN_01126,"Erickson, Armstrong and Lee",CN,1
+SUP_XX_01127,"Reeves, Parks and Little",XX,1
+SUP_US_01128,Knox-Powers,US,1
+SUP_CN_01129,"Evans, Jackson and Sandoval",CN,1
+SUP_CN_01130,"White, Davis and Anderson",CN,1
+SUP_DE_01131,Hardy-Hansen,DE,1
+SUP_CN_01132,Arroyo LLC,CN,1
+SUP_CN_01133,"Davis, Kelly and Garner",CN,1
+SUP_CN_01134,Fisher-Eaton,CN,1
+SUP_US_01135,Green-Carter,US,1
+SUP_KR_01136,Ruiz Ltd,KR,1
+SUP_CN_01137,"Carpenter, Oliver and Kennedy",CN,1
+SUP_CN_01138,Mason Ltd,CN,1
+SUP_JP_01139,Moreno-Gutierrez,JP,1
+SUP_CN_01140,Taylor and Sons,CN,1
+SUP_DE_01141,Ortiz-Hudson,DE,1
+SUP_CN_01142,Thomas-Huffman,CN,1
+SUP_CN_01143,Maxwell Group,CN,1
+SUP_CN_01144,Welch-Thompson,CN,1
+SUP_CN_01145,"Brown, Hayes and Clark",CN,1
+SUP_DE_01146,Johnston and Sons,DE,1
+SUP_DE_01147,Glover-Chan,DE,1
+SUP_KR_01148,Mendez Ltd,KR,1
+SUP_CN_01149,Powell-Sanford,CN,1
+SUP_CN_01150,Smith-Ferguson,CN,1
+SUP_CN_01151,"Watson, Smith and Morris",CN,1
+SUP_JP_01152,"Lee, Rhodes and Sims",JP,1
+SUP_JP_01153,Perez LLC,JP,1
+SUP_CN_01154,Anderson-Reyes,CN,1
+SUP_JP_01155,"Torres, Brown and Williams",JP,1
+SUP_KR_01156,Bryant-Meyer,KR,1
+SUP_CN_01157,"Morgan, Barron and Cowan",CN,1
+SUP_CN_01158,Ferrell-Henry,CN,1
+SUP_DE_01159,Martin Group,DE,1
+SUP_CN_01160,Perez Ltd,CN,1
+SUP_CN_01161,Clark Inc,CN,1
+SUP_CN_01162,"Wagner, Martinez and Dawson",CN,1
+SUP_JP_01163,Brooks Ltd,JP,1
+SUP_KR_01164,Wise-Dean,KR,1
+SUP_JP_01165,"Vang, Stanley and Valdez",JP,1
+SUP_CN_01166,Williams Inc,CN,1
+SUP_CN_01167,Wallace-Martinez,CN,1
+SUP_KR_01168,Wells-Hernandez,KR,1
+SUP_CN_01169,"Jennings, Smith and Fisher",CN,1
+SUP_CN_01170,Bates LLC,CN,1
+SUP_CN_01171,"Obrien, Taylor and Rivas",CN,1
+SUP_CN_01172,Hunt PLC,CN,1
+SUP_CN_01173,Campbell Inc,CN,1
+SUP_CN_01174,Gonzalez-Gonzalez,CN,1
+SUP_CN_01175,Decker-Dudley,CN,1
+SUP_DE_01176,Warner-Phillips,DE,1
+SUP_CN_01177,Kelley and Sons,CN,1
+SUP_CN_01178,"Fitzpatrick, Rivera and Smith",CN,1
+SUP_DE_01179,"Davis, Rodriguez and Andrews",DE,1
+SUP_KR_01180,Hernandez-Davis,KR,1
+SUP_US_01181,"Jones, Cummings and Conway",US,1
+SUP_US_01182,"Hall, Hinton and Phillips",US,1
+SUP_CN_01183,Williams-Li,CN,1
+SUP_US_01184,Phelps LLC,US,1
+SUP_CN_01185,"Edwards, Rodgers and Davis",CN,1
+SUP_CN_01186,Smith and Sons,CN,1
+SUP_XX_01187,"Holland, Murphy and Kline",XX,1
+SUP_US_01188,"Adams, Quinn and Watson",US,1
+SUP_KR_01189,White-Morales,KR,1
+SUP_KR_01190,Nelson-Cruz,KR,1
+SUP_DE_01191,Marsh-Banks,DE,1
+SUP_CN_01192,Wilson Ltd,CN,1
+SUP_CN_01193,"Brown, Dunlap and Moore",CN,1
+SUP_CN_01194,Pruitt-Webb,CN,1
+SUP_CN_01195,"Gregory, White and James",CN,1
+SUP_US_01196,Carr-Huffman,US,1
+SUP_JP_01197,"Mcpherson, Anderson and Knapp",JP,1
+SUP_US_01198,Clay Group,US,1
+SUP_XX_01199,Brown Ltd,XX,1
+SUP_CN_01200,Smith-Oneill,CN,1
+SUP_US_01201,"Saunders, Ray and Cunningham",US,1
+SUP_CN_01202,"Marks, Stone and Watts",CN,1
+SUP_KR_01203,"Davis, Stanley and Wright",KR,1
+SUP_KR_01204,Alvarado-Davidson,KR,1
+SUP_CN_01205,Combs PLC,CN,1
+SUP_CN_01206,"Brown, Schneider and Moore",CN,1
+SUP_CN_01207,Christian-Booth,CN,1
+SUP_CN_01208,Walton LLC,CN,1
+SUP_CN_01209,Rivera LLC,CN,1
+SUP_KR_01210,Hunter PLC,KR,1
+SUP_CN_01211,"Gray, Montoya and Miller",CN,1
+SUP_KR_01212,Solis-West,KR,1
+SUP_XX_01213,West-Wilson,XX,1
+SUP_CN_01214,Mcgee-Smith,CN,1
+SUP_DE_01215,Gutierrez-Hawkins,DE,1
+SUP_US_01216,Petersen PLC,US,1
+SUP_US_01217,"Walsh, Wu and Hart",US,1
+SUP_CN_01218,"Powers, Clements and Cox",CN,1
+SUP_CN_01219,Velasquez Group,CN,1
+SUP_CN_01220,Castro-Harvey,CN,1
+SUP_JP_01221,Moran-Cox,JP,1
+SUP_DE_01222,Wilson-Malone,DE,1
+SUP_JP_01223,Smith LLC,JP,1
+SUP_CN_01224,"Brandt, Carter and Boyd",CN,1
+SUP_DE_01225,"Rodriguez, Prince and Vasquez",DE,1
+SUP_KR_01226,"Newton, Ortiz and King",KR,1
+SUP_DE_01227,Lopez Group,DE,1
+SUP_DE_01228,Bryant and Sons,DE,1
+SUP_CN_01229,"Morgan, Sherman and Williams",CN,1
+SUP_XX_01230,"Monroe, Chapman and Barton",XX,1
+SUP_KR_01231,Ellis-Lawrence,KR,1
+SUP_JP_01232,"Taylor, Porter and Moreno",JP,1
+SUP_JP_01233,Tran Group,JP,1
+SUP_US_01234,"Webb, Romero and Morse",US,1
+SUP_JP_01235,Holt and Sons,JP,1
+SUP_CN_01236,"Ochoa, Garcia and Sandoval",CN,1
+SUP_CN_01237,"Andrade, Gordon and Cruz",CN,1
+SUP_CN_01238,"Moon, Farmer and Hill",CN,1
+SUP_CN_01239,Waller-Chavez,CN,1
+SUP_CN_01240,Taylor PLC,CN,1
+SUP_CN_01241,"Tanner, Hunt and Cameron",CN,1
+SUP_KR_01242,"Valencia, Joseph and Walls",KR,1
+SUP_CN_01243,"Robinson, Clark and Klein",CN,1
+SUP_KR_01244,"Reed, Chambers and Zavala",KR,1
+SUP_CN_01245,"Hester, Thompson and Daniels",CN,1
+SUP_US_01246,"Morris, Wilson and Bell",US,1
+SUP_CN_01247,Aguilar-Bender,CN,1
+SUP_US_01248,"Butler, Adkins and Skinner",US,1
+SUP_US_01249,Rich-Henderson,US,1
+SUP_JP_01250,Mills Inc,JP,1
+SUP_KR_01251,Thomas-Santiago,KR,1
+SUP_KR_01252,Adams and Sons,KR,1
+SUP_KR_01253,Vega-Thomas,KR,1
+SUP_DE_01254,Vaughn LLC,DE,1
+SUP_US_01255,Molina Inc,US,1
+SUP_CN_01256,Cervantes-Garcia,CN,1
+SUP_US_01257,"Stevenson, Hancock and Newton",US,1
+SUP_JP_01258,"Price, Dixon and Robles",JP,1
+SUP_CN_01259,"Roberts, Beck and House",CN,1
+SUP_KR_01260,Butler-French,KR,1
+SUP_CN_01261,"Edwards, Arnold and Smith",CN,1
+SUP_CN_01262,Harris-Melton,CN,1
+SUP_CN_01263,Greer-Pruitt,CN,1
+SUP_US_01264,"Mckinney, Richardson and Chapman",US,1
+SUP_CN_01265,"Morrison, Parsons and Brandt",CN,1
+SUP_DE_01266,Cole-Lucero,DE,1
+SUP_KR_01267,Lopez and Sons,KR,1
+SUP_CN_01268,"Palmer, Bennett and Patterson",CN,1
+SUP_CN_01269,"Baker, Martin and Singleton",CN,1
+SUP_CN_01270,Rivera Ltd,CN,1
+SUP_CN_01271,Williams LLC,CN,1
+SUP_KR_01272,"Williams, Randolph and Gilbert",KR,1
+SUP_CN_01273,"Turner, Tyler and Pierce",CN,1
+SUP_CN_01274,Bowers LLC,CN,1
+SUP_CN_01275,"Robinson, White and Jones",CN,1
+SUP_CN_01276,"Moore, Daniels and Powell",CN,1
+SUP_CN_01277,Walker-Lewis,CN,1
+SUP_KR_01278,Rivera-Carter,KR,1
+SUP_DE_01279,"Moreno, Barajas and Colon",DE,1
+SUP_JP_01280,"Smith, Caldwell and Griffin",JP,1
+SUP_CN_01281,"Austin, Oliver and Haley",CN,1
+SUP_CN_01282,"Blackwell, James and Hogan",CN,1
+SUP_JP_01283,Cruz PLC,JP,1
+SUP_CN_01284,"Campbell, Pruitt and Short",CN,1
+SUP_DE_01285,Robertson-Hicks,DE,1
+SUP_JP_01286,Williams-Villanueva,JP,1
+SUP_XX_01287,Flores Inc,XX,1
+SUP_US_01288,Jackson PLC,US,1
+SUP_CN_01289,"Smith, Jones and Santiago",CN,1
+SUP_KR_01290,Hancock Group,KR,1
+SUP_CN_01291,Harris Ltd,CN,1
+SUP_CN_01292,"Rowe, Lucas and Case",CN,1
+SUP_XX_01293,"Parks, Johnson and Love",XX,1
+SUP_JP_01294,Miller Inc,JP,1
+SUP_CN_01295,Bauer PLC,CN,1
+SUP_KR_01296,Andrews and Sons,KR,1
+SUP_XX_01297,Russell-Hayes,XX,1
+SUP_CN_01298,Hamilton-Smith,CN,1
+SUP_CN_01299,"Wilson, Smith and Cortez",CN,1
+SUP_DE_01300,Avila PLC,DE,1
+SUP_US_01301,Haynes Inc,US,1
+SUP_JP_01302,Reilly-Rodriguez,JP,1
+SUP_US_01303,"Turner, Miller and Hubbard",US,1
+SUP_DE_01304,James-Short,DE,1
+SUP_JP_01305,Wells PLC,JP,1
+SUP_KR_01306,Taylor Group,KR,1
+SUP_JP_01307,"Phillips, Walters and Evans",JP,1
+SUP_CN_01308,"Wong, Bernard and Smith",CN,1
+SUP_CN_01309,"Thomas, Williams and Armstrong",CN,1
+SUP_CN_01310,Medina-Arroyo,CN,1
+SUP_CN_01311,Clark-Figueroa,CN,14
+SUP_CN_01312,"Cooper, Gutierrez and Brewer",CN,1
+SUP_XX_01313,"Thomas, White and Jensen",XX,1
+SUP_KR_01314,Lee-White,KR,1
+SUP_CN_01315,"Phelps, York and Randolph",CN,1
+SUP_CN_01316,"Murray, Dunn and Roberts",CN,1
+SUP_CN_01317,King and Sons,CN,1
+SUP_US_01318,"Carpenter, Lynn and Howard",US,1
+SUP_CN_01319,"Rios, Garcia and Harvey",CN,1
+SUP_DE_01320,Stewart Group,DE,1
+SUP_US_01321,Jensen-Torres,US,1
+SUP_US_01322,"Hernandez, Knight and Aguirre",US,1
+SUP_CN_01323,Jackson-Edwards,CN,1
+SUP_CN_01324,Joseph Ltd,CN,1
+SUP_DE_01325,Hill-Ward,DE,1
+SUP_CN_01326,"Quinn, Humphrey and Ford",CN,1
+SUP_CN_01327,Hampton-Tucker,CN,1
+SUP_CN_01328,Thompson PLC,CN,1
+SUP_US_01329,Wilkinson and Sons,US,1
+SUP_DE_01330,"Gonzalez, Gross and Sims",DE,1
+SUP_US_01331,"Jones, Smith and Hunter",US,1
+SUP_CN_01332,Hess PLC,CN,1
+SUP_CN_01333,Hammond-Lewis,CN,1
+SUP_CN_01334,Arnold PLC,CN,1
+SUP_JP_01335,"Kennedy, Rowe and Diaz",JP,1
+SUP_CN_01336,Vance PLC,CN,1
+SUP_CN_01337,"Vincent, Anderson and Mason",CN,1
+SUP_CN_01338,Sanders PLC,CN,1
+SUP_DE_01339,Bates PLC,DE,1
+SUP_CN_01340,"Martin, Palmer and Griffin",CN,1
+SUP_KR_01341,Knight PLC,KR,1
+SUP_CN_01342,"Brennan, Thomas and Dennis",CN,1
+SUP_US_01343,Williams-Juarez,US,1
+SUP_KR_01344,Brown LLC,KR,1
+SUP_US_01345,Williams and Sons,US,1
+SUP_CN_01346,"Velez, Ward and Harrison",CN,1
+SUP_XX_01347,Keith-Williams,XX,1
+SUP_XX_01348,"Nguyen, Padilla and Boyd",XX,2
+SUP_KR_01349,Davenport-Baker,KR,1
+SUP_CN_01350,"Hudson, Bennett and Gray",CN,1
+SUP_CN_01351,"Valdez, Houston and Black",CN,1
+SUP_KR_01352,Kaufman-Walker,KR,1
+SUP_XX_01353,Gomez-Parrish,XX,1
+SUP_US_01354,Sparks-Eaton,US,1
+SUP_US_01355,Shaw and Sons,US,1
+SUP_CN_01356,Martin-Jones,CN,1
+SUP_CN_01357,"Campbell, Hernandez and Moore",CN,1
+SUP_JP_01358,"Love, Wilson and Hall",JP,1
+SUP_US_01359,Cortez-Olson,US,1
+SUP_KR_01360,Mendoza-Garza,KR,1
+SUP_CN_01361,"Whitaker, Johnson and Williams",CN,1
+SUP_US_01362,"Vargas, Taylor and Hunt",US,1
+SUP_US_01363,"Thomas, Jackson and Nielsen",US,1
+SUP_CN_01364,"Mullen, Greene and Elliott",CN,1
+SUP_DE_01365,Johns Ltd,DE,1
+SUP_CN_01366,"Nicholson, Valentine and Robinson",CN,1
+SUP_XX_01367,"Haney, Dillon and Jackson",XX,1
+SUP_CN_01368,Burke-Norton,CN,1
+SUP_CN_01369,Hanson PLC,CN,1
+SUP_XX_01370,Jackson-Jennings,XX,1
+SUP_CN_01371,Carlson-Jones,CN,1
+SUP_KR_01372,Cruz-Rodriguez,KR,1
+SUP_CN_01373,Mills PLC,CN,1
+SUP_CN_01374,"Barnes, Hernandez and Davis",CN,1
+SUP_CN_01375,Valenzuela-Greene,CN,1
+SUP_KR_01376,"Gordon, Wilson and Olson",KR,1
+SUP_CN_01377,Winters PLC,CN,1
+SUP_XX_01378,Prince Ltd,XX,1
+SUP_CN_01379,"Reynolds, Fisher and Golden",CN,1
+SUP_CN_01380,"Moreno, Perez and Lang",CN,1
+SUP_XX_01381,Bell-Ballard,XX,1
+SUP_US_01382,"Johnston, Coleman and Scott",US,1
+SUP_JP_01383,Kent Inc,JP,1
+SUP_DE_01384,George-Stephens,DE,1
+SUP_CN_01385,Lopez-Fletcher,CN,1
+SUP_CN_01386,Lane Inc,CN,1
+SUP_US_01387,"Smith, Pena and Watts",US,1
+SUP_JP_01388,Ortiz-Rodriguez,JP,1
+SUP_CN_01389,Pearson-King,CN,1
+SUP_DE_01390,"Henderson, Diaz and Hill",DE,1
+SUP_CN_01391,"Sanders, Harris and Arnold",CN,1
+SUP_CN_01392,"Olson, Wood and Peters",CN,1
+SUP_CN_01393,Hinton-Lane,CN,1
+SUP_CN_01394,"Sanders, Taylor and Shields",CN,1
+SUP_US_01395,Adkins Group,US,1
+SUP_KR_01396,"Avery, Garcia and Romero",KR,1
+SUP_DE_01397,Owen-Mendez,DE,1
+SUP_KR_01398,"Mann, Martin and Oconnell",KR,1
+SUP_CN_01399,Brock and Sons,CN,1
+SUP_CN_01400,Frost-Graham,CN,1
+SUP_CN_01401,Baker LLC,CN,1
+SUP_CN_01402,Lynch Ltd,CN,1
+SUP_CN_01403,Arias-Morales,CN,1
+SUP_DE_01404,"Meyer, Dawson and Harper",DE,1
+SUP_KR_01405,Bowman Group,KR,1
+SUP_CN_01406,Harris Ltd,CN,1
+SUP_XX_01407,"Mitchell, Johnson and Greene",XX,1
+SUP_KR_01408,"Hale, Gilbert and Craig",KR,1
+SUP_CN_01409,Allen-Smith,CN,1
+SUP_KR_01410,Miller LLC,KR,1
+SUP_CN_01411,Gomez-Foster,CN,1
+SUP_CN_01412,"Gonzalez, Smith and Padilla",CN,1
+SUP_CN_01413,Dunn Ltd,CN,1
+SUP_JP_01414,"Herman, Bailey and Richmond",JP,1
+SUP_CN_01415,Perez-Mccarty,CN,1
+SUP_CN_01416,Spears-Andrews,CN,1
+SUP_JP_01417,Thompson-Hunter,JP,1
+SUP_CN_01418,"Jones, Phillips and Arroyo",CN,1
+SUP_XX_01419,"Frye, Walter and Li",XX,1
+SUP_CN_01420,"Wright, Ramos and Bennett",CN,1
+SUP_KR_01421,Carrillo-Todd,KR,1
+SUP_KR_01422,Maldonado-Mosley,KR,1
+SUP_XX_01423,Olson LLC,XX,1
+SUP_KR_01424,Reyes and Sons,KR,1
+SUP_CN_01425,"Haynes, Mcbride and Gutierrez",CN,1
+SUP_KR_01426,Black-Smith,KR,1
+SUP_JP_01427,Wright-Davis,JP,1
+SUP_XX_01428,"Goodman, Peterson and Spencer",XX,1
+SUP_CN_01429,Woods LLC,CN,1
+SUP_CN_01430,Shannon LLC,CN,1
+SUP_DE_01431,Valentine Ltd,DE,1
+SUP_CN_01432,Porter and Sons,CN,1
+SUP_DE_01433,Moss LLC,DE,1
+SUP_JP_01434,Perez and Sons,JP,1
+SUP_DE_01435,"Kelly, Maxwell and Wilson",DE,1
+SUP_DE_01436,Lowe Ltd,DE,1
+SUP_CN_01437,Austin-Duran,CN,1
+SUP_CN_01438,"Rubio, Charles and Watson",CN,1
+SUP_KR_01439,Vasquez-Galloway,KR,1
+SUP_US_01440,"Melton, Henry and Joyce",US,1
+SUP_CN_01441,"Ramirez, Walker and Ray",CN,1
+SUP_DE_01442,Fox Group,DE,1
+SUP_KR_01443,Ayers-Johnson,KR,1
+SUP_JP_01444,Long-Parks,JP,1
+SUP_JP_01445,Bryant Inc,JP,1
+SUP_US_01446,"Holmes, Stewart and Smith",US,1
+SUP_CN_01447,"Clark, Carpenter and Nguyen",CN,1
+SUP_DE_01448,"Hensley, Lopez and Baker",DE,1
+SUP_KR_01449,Ruiz-Austin,KR,1
+SUP_CN_01450,White-Coleman,CN,1
+SUP_CN_01451,Haynes-Watson,CN,1
+SUP_CN_01452,Ramirez-White,CN,1
+SUP_CN_01453,Krause Ltd,CN,1
+SUP_XX_01454,Olsen Ltd,XX,1
+SUP_KR_01455,Brock-Peters,KR,1
+SUP_XX_01456,Gonzalez-Marsh,XX,1
+SUP_KR_01457,"Hernandez, Shaffer and Thompson",KR,1
+SUP_CN_01458,Taylor-Barry,CN,1
+SUP_DE_01459,"Holmes, Le and Floyd",DE,1
+SUP_CN_01460,King-Garrison,CN,1
+SUP_CN_01461,Ross Ltd,CN,1
+SUP_DE_01462,Brown LLC,DE,1
+SUP_US_01463,Combs-Davis,US,1
+SUP_CN_01464,"Cook, Ward and Castro",CN,1
+SUP_CN_01465,Cooper-Jenkins,CN,1
+SUP_CN_01466,Dillon-Mccarty,CN,1
+SUP_US_01467,Ray Ltd,US,1
+SUP_DE_01468,"Ryan, Krause and Mitchell",DE,1
+SUP_US_01469,Nunez-Freeman,US,1
+SUP_CN_01470,"Griffin, Miller and Austin",CN,1
+SUP_XX_01471,Welch-Thomas,XX,1
+SUP_KR_01472,Davidson LLC,KR,1
+SUP_KR_01473,Welch-Duncan,KR,1
+SUP_XX_01474,Miller LLC,XX,1
+SUP_KR_01475,Edwards Ltd,KR,1
+SUP_US_01476,Page-Jacobs,US,1
+SUP_DE_01477,Nelson-Wallace,DE,1
+SUP_CN_01478,Adkins-Meyer,CN,1
+SUP_JP_01479,Gutierrez-White,JP,1
+SUP_US_01480,Martinez and Sons,US,1
+SUP_KR_01481,"King, Manning and Brady",KR,1
+SUP_CN_01482,Jackson Inc,CN,1
+SUP_CN_01483,Brown Group,CN,1
+SUP_JP_01484,"Brown, Wise and Warren",JP,1
+SUP_CN_01485,Garcia PLC,CN,1
+SUP_JP_01486,Miller Group,JP,1
+SUP_CN_01487,Perez-Rojas,CN,1
+SUP_JP_01488,Sims-Anderson,JP,1
+SUP_CN_01489,Johnson Ltd,CN,1
+SUP_CN_01490,Dalton-Nguyen,CN,1
+SUP_US_01491,Mcdonald-Pitts,US,1
+SUP_CN_01492,Dunn-Taylor,CN,1
+SUP_XX_01493,"Ryan, Garza and Bryant",XX,1
+SUP_CN_01494,"Fields, Elliott and Mills",CN,1
+SUP_XX_01495,"Ferguson, Stout and Olson",XX,1
+SUP_XX_01496,Ballard Group,XX,1
+SUP_CN_01497,Diaz-Green,CN,1
+SUP_JP_01498,Smith-Mills,JP,1
+SUP_CN_01499,Cooper Group,CN,1
+SUP_US_01500,"Smith, Weeks and Arroyo",US,1
+SUP_JP_01501,Evans-Cannon,JP,1
+SUP_XX_01502,Harper-Robles,XX,1
+SUP_CN_01503,"Brooks, Jenkins and Castro",CN,1
+SUP_JP_01504,Wright-Espinoza,JP,1
+SUP_DE_01505,"Price, Gray and Baker",DE,1
+SUP_CN_01506,Garrett-Black,CN,1
+SUP_CN_01507,"Aguirre, Cohen and Mitchell",CN,1
+SUP_DE_01508,"Patel, Adams and Lopez",DE,1
+SUP_CN_01509,White LLC,CN,1
+SUP_CN_01510,Walsh PLC,CN,1
+SUP_KR_01511,Nelson-Dean,KR,1
+SUP_JP_01512,Flores and Sons,JP,1
+SUP_JP_01513,Booker Inc,JP,1
+SUP_XX_01514,Compton LLC,XX,1
+SUP_CN_01515,Martinez-Gonzales,CN,1
+SUP_DE_01516,Hall and Sons,DE,1
+SUP_KR_01517,Snyder LLC,KR,1
+SUP_KR_01518,Collins-Lloyd,KR,1
+SUP_CN_01519,Ford-Moody,CN,1
+SUP_JP_01520,Miller-Christensen,JP,1
+SUP_CN_01521,Brown Group,CN,1
+SUP_CN_01522,Daniels and Sons,CN,1
+SUP_DE_01523,Huang LLC,DE,1
+SUP_KR_01524,Clayton-Martinez,KR,1
+SUP_CN_01525,"Wright, Wise and Ramos",CN,1
+SUP_KR_01526,"Vang, Gonzalez and Moss",KR,1
+SUP_CN_01527,Boyd and Sons,CN,1
+SUP_CN_01528,Price-Ali,CN,1
+SUP_CN_01529,Moore-Chandler,CN,1
+SUP_XX_01530,"Pineda, Meyer and King",XX,1
+SUP_CN_01531,"Evans, Ward and Williams",CN,1
+SUP_XX_01532,"Robinson, Rodriguez and Chen",XX,1
+SUP_KR_01533,Smith-Bauer,KR,1
+SUP_CN_01534,"Wilson, Mccormick and Smith",CN,1
+SUP_US_01535,Perkins Ltd,US,1
+SUP_KR_01536,Barker-Moore,KR,1
+SUP_US_01537,Wright Group,US,1
+SUP_CN_01538,Parks LLC,CN,1
+SUP_CN_01539,"Brown, Kelly and Moore",CN,1
+SUP_JP_01540,"Moody, Martinez and Hall",JP,1
+SUP_US_01541,"Kramer, Sherman and Trujillo",US,1
+SUP_CN_01542,Quinn-Smith,CN,1
+SUP_CN_01543,Howard-Taylor,CN,1
+SUP_CN_01544,Washington Group,CN,1
+SUP_KR_01545,"Phillips, Terry and Lopez",KR,1
+SUP_US_01546,Stephens LLC,US,1
+SUP_US_01547,"Mcdonald, Dillon and George",US,1
+SUP_DE_01548,"Martin, Schmidt and Cole",DE,1
+SUP_XX_01549,Weaver-Gibson,XX,1
+SUP_JP_01550,"Hunter, Gross and Andrade",JP,1
+SUP_DE_01551,"Vincent, Parsons and Allen",DE,1
+SUP_KR_01552,"Brown, Coffey and Fuentes",KR,1
+SUP_CN_01553,Warren Group,CN,1
+SUP_CN_01554,"Moore, Campbell and Ortiz",CN,1
+SUP_CN_01555,Rodriguez-Mills,CN,1
+SUP_DE_01556,Williams and Sons,DE,1
+SUP_CN_01557,Russo and Sons,CN,1
+SUP_KR_01558,Washington Inc,KR,1
+SUP_CN_01559,Duncan Group,CN,1
+SUP_US_01560,"Burns, Hanson and Garza",US,1
+SUP_KR_01561,Diaz PLC,KR,1
+SUP_JP_01562,"Jones, Conrad and Clark",JP,1
+SUP_CN_01563,Hebert-Collier,CN,1
+SUP_CN_01564,Owen-Brown,CN,1
+SUP_XX_01565,"Paul, Zamora and Short",XX,1
+SUP_DE_01566,"Brown, Jensen and Rice",DE,1
+SUP_KR_01567,"Jones, Torres and Blackburn",KR,1
+SUP_DE_01568,"Davis, Hardy and Schmidt",DE,1
+SUP_US_01569,Lee Ltd,US,1
+SUP_CN_01570,Hudson and Sons,CN,1
+SUP_XX_01571,"Curry, Perry and Garcia",XX,1
+SUP_JP_01572,"Ray, Craig and Park",JP,1
+SUP_CN_01573,Andrade-Jackson,CN,1
+SUP_JP_01574,Pierce PLC,JP,1
+SUP_CN_01575,Sandoval-Ferguson,CN,1
+SUP_US_01576,"Ramos, Gomez and Edwards",US,1
+SUP_DE_01577,Kirk-Gutierrez,DE,1
+SUP_JP_01578,"Jordan, Swanson and Franklin",JP,1
+SUP_CN_01579,"Gardner, Brooks and Pierce",CN,1
+SUP_XX_01580,"King, Nixon and West",XX,1
+SUP_CN_01581,Smith-Johnson,CN,1
+SUP_XX_01582,Larson-Holmes,XX,1
+SUP_CN_01583,Smith-Joyce,CN,1
+SUP_CN_01584,Foley Inc,CN,1
+SUP_CN_01585,"Short, Ellison and Dixon",CN,1
+SUP_CN_01586,"Howe, Moore and Johnson",CN,1
+SUP_CN_01587,Moore-Baker,CN,1
+SUP_DE_01588,"Wright, Scott and Evans",DE,1
+SUP_CN_01589,"Ross, Hardin and Navarro",CN,1
+SUP_XX_01590,"Nguyen, Olson and Freeman",XX,1
+SUP_US_01591,"Warner, Weiss and Davis",US,1
+SUP_US_01592,"Evans, Cross and Johnston",US,1
+SUP_CN_01593,Deleon LLC,CN,1
+SUP_JP_01594,Hobbs-Hamilton,JP,1
+SUP_KR_01595,Kane and Sons,KR,1
+SUP_CN_01596,"Delgado, Guzman and Smith",CN,1
+SUP_CN_01597,"Reyes, Torres and Williams",CN,1
+SUP_KR_01598,"Cunningham, Murphy and Wolfe",KR,1
+SUP_KR_01599,Williams Ltd,KR,1
+SUP_CN_01600,Maddox-Mullins,CN,1
+SUP_XX_01601,"Wagner, Walker and Roberts",XX,1
+SUP_CN_01602,Hernandez-Rogers,CN,1
+SUP_JP_01603,Duncan-Williams,JP,1
+SUP_DE_01604,Baker-Ross,DE,1
+SUP_JP_01605,Ayala-Anderson,JP,1
+SUP_US_01606,Castillo and Sons,US,1
+SUP_KR_01607,Foster-Duncan,KR,1
+SUP_US_01608,"Gilbert, Fitzgerald and Sanchez",US,1
+SUP_CN_01609,Adams Group,CN,1
+SUP_CN_01610,Cohen-Johnston,CN,1
+SUP_JP_01611,Powers Group,JP,1
+SUP_KR_01612,Bailey-Flores,KR,1
+SUP_JP_01613,"Rios, Carrillo and Jackson",JP,1
+SUP_DE_01614,Jensen-Branch,DE,1
+SUP_CN_01615,Hanson-Alexander,CN,1
+SUP_JP_01616,Gonzalez LLC,JP,1
+SUP_KR_01617,Todd Inc,KR,1
+SUP_JP_01618,Singh and Sons,JP,1
+SUP_CN_01619,"Mcintosh, Melton and Wilkins",CN,1
+SUP_XX_01620,Cooper Inc,XX,1
+SUP_KR_01621,Cole-Johnson,KR,1
+SUP_US_01622,Singh and Sons,US,1
+SUP_JP_01623,Payne LLC,JP,1
+SUP_CN_01624,"Webb, Blair and Thomas",CN,1
+SUP_CN_01625,"Barnett, Bennett and Escobar",CN,1
+SUP_CN_01626,"Williams, Jackson and Campbell",CN,1
+SUP_CN_01627,"Williamson, Brown and Pena",CN,1
+SUP_KR_01628,Jones Ltd,KR,1
+SUP_CN_01629,Alvarado-Durham,CN,1
+SUP_JP_01630,Lin-Smith,JP,1
+SUP_CN_01631,"Hughes, Whitney and Romero",CN,1
+SUP_DE_01632,"Garcia, Stewart and Delacruz",DE,1
+SUP_DE_01633,"Miller, Gonzalez and Rasmussen",DE,1
+SUP_US_01634,"House, Smith and Wright",US,1
+SUP_XX_01635,"Torres, Burns and Garner",XX,1
+SUP_CN_01636,Reed LLC,CN,1
+SUP_CN_01637,Garrett-Young,CN,1
+SUP_KR_01638,"Hill, Brown and Scott",KR,1
+SUP_CN_01639,Zamora-Briggs,CN,1
+SUP_KR_01640,Raymond LLC,KR,1
+SUP_CN_01641,Hernandez Group,CN,1
+SUP_CN_01642,"Taylor, Blair and Meyer",CN,1
+SUP_CN_01643,"Salazar, Garrett and Perez",CN,1
+SUP_CN_01644,Berry Group,CN,1
+SUP_CN_01645,Browning-Murphy,CN,1
+SUP_JP_01646,"Anderson, Delgado and Carpenter",JP,1
+SUP_CN_01647,"Mcbride, Huffman and Parker",CN,1
+SUP_US_01648,"Roach, Browning and Jordan",US,1
+SUP_CN_01649,Douglas PLC,CN,3
+SUP_CN_01650,Stewart PLC,CN,1
+SUP_KR_01651,"Fry, Wilson and Stewart",KR,1
+SUP_CN_01652,Acosta LLC,CN,1
+SUP_DE_01653,Ali-Turner,DE,1
+SUP_KR_01654,"Peck, Shannon and Mahoney",KR,1
+SUP_KR_01655,Hernandez-Lopez,KR,1
+SUP_KR_01656,Lopez PLC,KR,1
+SUP_CN_01657,"Adams, Bradley and Hall",CN,1
+SUP_CN_01658,Hall Inc,CN,1
+SUP_XX_01659,Miller-Chan,XX,1
+SUP_KR_01660,Shaw PLC,KR,1
+SUP_XX_01661,Joseph-Brooks,XX,1
+SUP_CN_01662,Henry-Taylor,CN,1
+SUP_CN_01663,Perez Group,CN,1
+SUP_CN_01664,Schaefer Group,CN,1
+SUP_KR_01665,Newton and Sons,KR,1
+SUP_US_01666,Jones Group,US,1
+SUP_JP_01667,"Burns, Nguyen and Ellis",JP,1
+SUP_KR_01668,Patterson Inc,KR,1
+SUP_KR_01669,"Moss, James and Edwards",KR,1
+SUP_US_01670,"Crosby, Armstrong and Herrera",US,1
+SUP_CN_01671,"Liu, Buchanan and Meyer",CN,1
+SUP_US_01672,Bryant-Rich,US,1
+SUP_DE_01673,Stone Group,DE,1
+SUP_DE_01674,"Williams, Hughes and Hubbard",DE,1
+SUP_CN_01675,Lee Group,CN,1
+SUP_CN_01676,Wilkerson-Ayala,CN,1
+SUP_KR_01677,Murray-Henderson,KR,1
+SUP_CN_01678,"Ellison, Vaughn and Mckee",CN,1
+SUP_KR_01679,Gallegos-Hayes,KR,1
+SUP_CN_01680,"Mason, White and Richards",CN,1
+SUP_KR_01681,"Payne, Long and Morris",KR,1
+SUP_DE_01682,White PLC,DE,1
+SUP_CN_01683,"Huang, Khan and Davis",CN,1
+SUP_XX_01684,Holt-Meadows,XX,1
+SUP_JP_01685,Higgins Inc,JP,1
+SUP_CN_01686,Wilson Group,CN,1
+SUP_XX_01687,"Cox, Mills and Cruz",XX,1
+SUP_CN_01688,"Salazar, Moore and Pierce",CN,1
+SUP_DE_01689,Tate LLC,DE,1
+SUP_CN_01690,"Savage, Huffman and Martin",CN,1
+SUP_XX_01691,White Ltd,XX,1
+SUP_DE_01692,Barnes LLC,DE,1
+SUP_CN_01693,"Mack, Griffin and Sims",CN,1
+SUP_KR_01694,Roach and Sons,KR,1
+SUP_KR_01695,Dean LLC,KR,1
+SUP_CN_01696,Ellis Group,CN,1
+SUP_CN_01697,"Aguirre, Franklin and Snyder",CN,1
+SUP_CN_01698,Chapman Group,CN,1
+SUP_KR_01699,Ortiz-Miller,KR,1
+SUP_KR_01700,"Smith, Khan and Ramirez",KR,1
+SUP_JP_01701,"Grant, Bryan and Williams",JP,1
+SUP_KR_01702,Brown LLC,KR,1
+SUP_CN_01703,Thomas Inc,CN,1
+SUP_JP_01704,"Lane, Morrison and Rivera",JP,1
+SUP_CN_01705,Williams Group,CN,1
+SUP_XX_01706,Martin LLC,XX,1
+SUP_DE_01707,"Guerrero, Graves and Armstrong",DE,1
+SUP_CN_01708,"Thompson, Gibson and Riley",CN,1
+SUP_CN_01709,Davis LLC,CN,1
+SUP_US_01710,Richardson-Gray,US,1
+SUP_KR_01711,Chang PLC,KR,1
+SUP_DE_01712,Carter and Sons,DE,1
+SUP_CN_01713,Neal LLC,CN,1
+SUP_US_01714,Rose-Warren,US,1
+SUP_CN_01715,"Clark, Brown and Duncan",CN,1
+SUP_JP_01716,"Rice, Miller and Ramsey",JP,1
+SUP_XX_01717,"Peck, Andersen and Mitchell",XX,1
+SUP_KR_01718,"Abbott, Green and Andrews",KR,1
+SUP_DE_01719,"Gomez, Anderson and Hart",DE,1
+SUP_DE_01720,"Daniel, Jimenez and Morton",DE,1
+SUP_JP_01721,"Hall, Roberts and Lee",JP,1
+SUP_CN_01722,Johnson Ltd,CN,1
+SUP_KR_01723,Mclaughlin and Sons,KR,1
+SUP_XX_01724,"Duarte, Gutierrez and Cook",XX,1
+SUP_DE_01725,"Shaffer, Lewis and Davidson",DE,1
+SUP_DE_01726,"Campbell, Tyler and Parker",DE,1
+SUP_KR_01727,"Pierce, Wang and Wilson",KR,1
+SUP_DE_01728,Peterson-Ramsey,DE,1
+SUP_KR_01729,"Choi, Collier and Lee",KR,1
+SUP_CN_01730,Nielsen-Mendoza,CN,1
+SUP_JP_01731,Robles-Brewer,JP,1
+SUP_JP_01732,Moore-Murray,JP,1
+SUP_US_01733,"Huang, Ford and Olsen",US,1
+SUP_CN_01734,"Brown, Meyer and Cunningham",CN,1
+SUP_JP_01735,"Stewart, Herrera and Clark",JP,1
+SUP_CN_01736,"Rivera, Hendricks and Flynn",CN,1
+SUP_XX_01737,Montes LLC,XX,1
+SUP_CN_01738,Morgan Group,CN,1
+SUP_CN_01739,"Ferguson, Martin and Obrien",CN,1
+SUP_CN_01740,Larson LLC,CN,1
+SUP_CN_01741,"Hodge, Mckinney and Nelson",CN,1
+SUP_JP_01742,Crawford and Sons,JP,1
+SUP_CN_01743,Hayes-Sampson,CN,1
+SUP_DE_01744,Warren and Sons,DE,1
+SUP_XX_01745,Brooks Inc,XX,1
+SUP_US_01746,Gentry Group,US,1
+SUP_DE_01747,"Johnson, Webb and Porter",DE,1
+SUP_CN_01748,Peterson Group,CN,1
+SUP_CN_01749,"Russo, Collins and Murphy",CN,1
+SUP_CN_01750,Short PLC,CN,1
+SUP_CN_01751,"Haney, Harris and Johnson",CN,1
+SUP_JP_01752,Reeves-Boyd,JP,1
+SUP_KR_01753,Collins Inc,KR,1
+SUP_CN_01754,"Charles, Wiggins and Cook",CN,1
+SUP_CN_01755,Garcia Ltd,CN,1
+SUP_XX_01756,"Edwards, Lane and Collins",XX,1
+SUP_CN_01757,Flores and Sons,CN,1
+SUP_CN_01758,Hill-Flores,CN,1
+SUP_DE_01759,Lambert-Nelson,DE,1
+SUP_DE_01760,Hill Inc,DE,1
+SUP_JP_01761,"Castro, Garcia and Daniels",JP,1
+SUP_JP_01762,"Flores, Thomas and Bush",JP,1
+SUP_JP_01763,Andrews-Jackson,JP,1
+SUP_CN_01764,Austin-Morgan,CN,1
+SUP_CN_01765,Williams-Johnson,CN,1
+SUP_KR_01766,"Williams, Reyes and Miller",KR,1
+SUP_CN_01767,White-Carlson,CN,1
+SUP_XX_01768,"Soto, Vaughn and Griffin",XX,1
+SUP_CN_01769,Edwards-Roth,CN,1
+SUP_CN_01770,"Chang, Lamb and Miller",CN,1
+SUP_CN_01771,Bradley-Davis,CN,1
+SUP_DE_01772,"Mcdonald, Bryant and Cohen",DE,1
+SUP_CN_01773,"Miranda, Ruiz and Meza",CN,1
+SUP_CN_01774,Callahan PLC,CN,1
+SUP_XX_01775,Durham-Myers,XX,1
+SUP_DE_01776,"Stark, Rivera and Valencia",DE,1
+SUP_CN_01777,Chavez-Johnson,CN,1
+SUP_CN_01778,Rodriguez-Mendoza,CN,1
+SUP_JP_01779,Campbell LLC,JP,1
+SUP_CN_01780,"Andrews, Romero and Sullivan",CN,1
+SUP_XX_01781,"Robles, Nguyen and Banks",XX,1
+SUP_US_01782,Patel-Morales,US,1
+SUP_XX_01783,Allen-Sanchez,XX,1
+SUP_US_01784,Dickson Group,US,1
+SUP_CN_01785,Peterson Ltd,CN,1
+SUP_CN_01786,"Reynolds, Baird and Bradley",CN,1
+SUP_DE_01787,Stephens-Young,DE,1
+SUP_CN_01788,"Caldwell, Stevenson and Joseph",CN,1
+SUP_CN_01789,Wilson-Carlson,CN,1
+SUP_CN_01790,Peters-Short,CN,1
+SUP_KR_01791,Parker Group,KR,1
+SUP_CN_01792,George Ltd,CN,1
+SUP_KR_01793,"Wise, Gray and Snyder",KR,1
+SUP_XX_01794,"Brown, Robinson and Taylor",XX,1
+SUP_JP_01795,"Berger, Fields and Smith",JP,1
+SUP_CN_01796,Guerrero Group,CN,1
+SUP_JP_01797,"Carter, Gilbert and West",JP,1
+SUP_KR_01798,Maldonado LLC,KR,1
+SUP_CN_01799,Hudson-Gentry,CN,1
+SUP_JP_01800,Sellers-Zuniga,JP,1
+SUP_KR_01801,"Haas, Cooper and Davis",KR,1
+SUP_JP_01802,Carr PLC,JP,1
+SUP_CN_01803,Abbott-Phelps,CN,1
+SUP_CN_01804,Wood PLC,CN,1
+SUP_DE_01805,Smith PLC,DE,1
+SUP_CN_01806,Rodriguez-Campbell,CN,1
+SUP_DE_01807,Young Ltd,DE,1
+SUP_CN_01808,"Long, Flores and Reyes",CN,1
+SUP_KR_01809,Graham-Clark,KR,1
+SUP_XX_01810,Wells and Sons,XX,1
+SUP_CN_01811,"Cruz, Middleton and Larsen",CN,1
+SUP_XX_01812,Roberts Ltd,XX,1
+SUP_US_01813,Taylor Inc,US,1
+SUP_KR_01814,"Smith, Griffith and Tucker",KR,1
+SUP_CN_01815,Proctor-Taylor,CN,1
+SUP_XX_01816,May Group,XX,1
+SUP_CN_01817,English-Dominguez,CN,1
+SUP_JP_01818,Hanson-Gibson,JP,1
+SUP_XX_01819,Arnold-Cole,XX,1
+SUP_CN_01820,Perez-Coleman,CN,1
+SUP_KR_01821,Lane Ltd,KR,1
+SUP_KR_01822,Joseph LLC,KR,1
+SUP_DE_01823,House-Johnston,DE,1
+SUP_XX_01824,Good PLC,XX,1
+SUP_XX_01825,Bush-Wilson,XX,1
+SUP_CN_01826,Nixon-Miller,CN,1
+SUP_US_01827,"Simon, Terrell and Terrell",US,1
+SUP_CN_01828,Marshall-Miller,CN,1
+SUP_XX_01829,"Davis, Kennedy and Harmon",XX,1
+SUP_XX_01830,"Miller, Schultz and Yates",XX,1
+SUP_CN_01831,Austin-Berger,CN,1
+SUP_KR_01832,"Osborne, Harrison and Hunt",KR,1
+SUP_XX_01833,Berry-Rivera,XX,1
+SUP_XX_01834,Yu-Yates,XX,1
+SUP_XX_01835,Jackson-Neal,XX,1
+SUP_US_01836,"Curry, Acosta and Elliott",US,1
+SUP_CN_01837,Soto PLC,CN,1
+SUP_KR_01838,Berry Ltd,KR,1
+SUP_CN_01839,Lamb-Weber,CN,1
+SUP_XX_01840,Washington-Martinez,XX,1
+SUP_CN_01841,York LLC,CN,1
+SUP_XX_01842,Anderson-Campbell,XX,1
+SUP_KR_01843,Smith-Rodriguez,KR,1
+SUP_KR_01844,Kent Ltd,KR,1
+SUP_XX_01845,Hopkins LLC,XX,1
+SUP_US_01846,Green Ltd,US,1
+SUP_KR_01847,Washington PLC,KR,1
+SUP_CN_01848,Cooper Inc,CN,1
+SUP_CN_01849,Larson and Sons,CN,1
+SUP_CN_01850,Mullins-Gutierrez,CN,1
+SUP_KR_01851,Young-Alexander,KR,1
+SUP_CN_01852,"Jackson, Lane and Wilkinson",CN,1
+SUP_CN_01853,May Inc,CN,1
+SUP_DE_01854,Jackson Group,DE,1
+SUP_DE_01855,Turner-Reese,DE,1
+SUP_KR_01856,"Hall, Vega and Price",KR,1
+SUP_DE_01857,Thomas-Berg,DE,1
+SUP_CN_01858,Roberts Group,CN,1
+SUP_US_01859,Gregory-Nixon,US,1
+SUP_US_01860,"Blanchard, Davis and Schmidt",US,1
+SUP_US_01861,Blanchard-Reynolds,US,1
+SUP_KR_01862,"Garrison, Rogers and Adams",KR,1
+SUP_CN_01863,Scott PLC,CN,1
+SUP_JP_01864,Murray-Leonard,JP,1
+SUP_CN_01865,Navarro PLC,CN,1
+SUP_CN_01866,Meyer Ltd,CN,1
+SUP_CN_01867,"Kaiser, Edwards and Smith",CN,1
+SUP_CN_01868,Decker Inc,CN,1
+SUP_CN_01869,Davis-Garcia,CN,1
+SUP_CN_01870,Bell-Hardy,CN,1
+SUP_DE_01871,Lee-Johnson,DE,1
+SUP_XX_01872,Brown PLC,XX,1
+SUP_CN_01873,"Shannon, Robinson and Greene",CN,1
+SUP_DE_01874,Erickson Inc,DE,1
+SUP_CN_01875,Gates and Sons,CN,1
+SUP_JP_01876,Douglas-Yoder,JP,1
+SUP_JP_01877,"Pratt, Lopez and Rodriguez",JP,1
+SUP_CN_01878,King Group,CN,1
+SUP_CN_01879,"Mayer, Fowler and Livingston",CN,1
+SUP_CN_01880,Hammond-Schwartz,CN,1
+SUP_CN_01881,"Carrillo, Morris and Martin",CN,1
+SUP_KR_01882,Ramirez Inc,KR,1
+SUP_US_01883,Price-Ferrell,US,1
+SUP_DE_01884,Sosa-Baker,DE,1
+SUP_CN_01885,Jones-Krause,CN,1
+SUP_CN_01886,Bishop and Sons,CN,1
+SUP_XX_01887,"Vasquez, Thomas and Mack",XX,1
+SUP_CN_01888,Mendez Inc,CN,1
+SUP_JP_01889,Baldwin-Garcia,JP,1
+SUP_CN_01890,Jones Ltd,CN,1
+SUP_CN_01891,Waters-Smith,CN,1
+SUP_CN_01892,Hernandez-Bowman,CN,1
+SUP_DE_01893,Ortega LLC,DE,1
+SUP_JP_01894,Graves Group,JP,1
+SUP_CN_01895,"Smith, Zimmerman and Wise",CN,1
+SUP_KR_01896,Graham-Anthony,KR,1
+SUP_KR_01897,Fernandez Inc,KR,1
+SUP_KR_01898,Finley-Meyers,KR,1
+SUP_JP_01899,Martinez-Nichols,JP,1
+SUP_CN_01900,Cook-Turner,CN,1
+SUP_CN_01901,Chen Ltd,CN,1
+SUP_DE_01902,Diaz LLC,DE,1
+SUP_US_01903,Randall LLC,US,1
+SUP_CN_01904,"Harris, Spencer and Ponce",CN,1
+SUP_CN_01905,"Lee, Dominguez and Mosley",CN,1
+SUP_DE_01906,"Barker, Tucker and Mcclure",DE,1
+SUP_CN_01907,Moss-Taylor,CN,1
+SUP_KR_01908,Johnson PLC,KR,1
+SUP_CN_01909,Burns Inc,CN,1
+SUP_KR_01910,"Schneider, Porter and Hanna",KR,1
+SUP_KR_01911,Levy-Smith,KR,1
+SUP_KR_01912,Brown-French,KR,1
+SUP_CN_01913,Sullivan and Sons,CN,1
+SUP_CN_01914,"Contreras, Ellis and Gregory",CN,1
+SUP_KR_01915,"Hernandez, Riley and Buckley",KR,1
+SUP_CN_01916,Moss Group,CN,1
+SUP_CN_01917,"Smith, Meadows and Montgomery",CN,1
+SUP_KR_01918,Haynes and Sons,KR,1
+SUP_CN_01919,Jackson Inc,CN,1
+SUP_KR_01920,Hoover-Davis,KR,1
+SUP_US_01921,"Jackson, Garza and Meyers",US,1
+SUP_KR_01922,Wilson PLC,KR,1
+SUP_KR_01923,"Walker, Brock and Simmons",KR,1
+SUP_KR_01924,"Gregory, Nguyen and Daugherty",KR,1
+SUP_CN_01925,"Gardner, Morris and Oconnell",CN,1
+SUP_KR_01926,Duran PLC,KR,1
+SUP_US_01927,Rogers Inc,US,1
+SUP_DE_01928,Thomas-Perry,DE,1
+SUP_CN_01929,"Wood, Martin and Sanchez",CN,1
+SUP_US_01930,"Williams, Garcia and Boone",US,1
+SUP_DE_01931,"Bennett, Moore and Hobbs",DE,1
+SUP_KR_01932,Smith and Sons,KR,1
+SUP_CN_01933,Mann PLC,CN,1
+SUP_CN_01934,Butler-Aguirre,CN,1
+SUP_CN_01935,Schwartz-Harris,CN,1
+SUP_XX_01936,"Nelson, Cole and Allen",XX,1
+SUP_XX_01937,Bishop Inc,XX,1
+SUP_CN_01938,"White, Porter and Clements",CN,1
+SUP_XX_01939,"Serrano, Turner and Barnes",XX,1
+SUP_CN_01940,"Young, Wilson and Moreno",CN,1
+SUP_CN_01941,Montgomery PLC,CN,1
+SUP_DE_01942,"Robinson, Townsend and Hopkins",DE,1
+SUP_DE_01943,Brown-Rodriguez,DE,1
+SUP_XX_01944,Jennings Group,XX,1
+SUP_JP_01945,Thompson-Santiago,JP,1
+SUP_CN_01946,Brown LLC,CN,1
+SUP_XX_01947,Clark-King,XX,1
+SUP_CN_01948,"Trujillo, Chang and Williams",CN,1
+SUP_US_01949,"Williams, Medina and Moore",US,1
+SUP_XX_01950,Washington Inc,XX,1
+SUP_CN_01951,Jacobson Ltd,CN,1
+SUP_JP_01952,Watkins-Nguyen,JP,1
+SUP_JP_01953,Burgess LLC,JP,1
+SUP_KR_01954,Maxwell LLC,KR,1
+SUP_JP_01955,Garcia Ltd,JP,1
+SUP_CN_01956,Kane-Bennett,CN,1
+SUP_CN_01957,Jones PLC,CN,1
+SUP_KR_01958,Brown-Graham,KR,1
+SUP_KR_01959,Reilly Group,KR,1
+SUP_DE_01960,Hughes and Sons,DE,1
+SUP_CN_01961,Cortez-Chen,CN,1
+SUP_CN_01962,Harris-Martinez,CN,1
+SUP_CN_01963,"Carroll, Ramirez and Rodriguez",CN,1
+SUP_CN_01964,Ellis-Jackson,CN,1
+SUP_JP_01965,Robinson-Phillips,JP,1
+SUP_KR_01966,Clarke Ltd,KR,1
+SUP_KR_01967,"Whitehead, Lane and Tran",KR,1
+SUP_US_01968,Miller PLC,US,1
+SUP_CN_01969,Atkins-Robinson,CN,1
+SUP_CN_01970,Hood-Ramirez,CN,1
+SUP_CN_01971,"Patterson, Salas and Wright",CN,1
+SUP_XX_01972,Riley-Snow,XX,1
+SUP_DE_01973,"Shah, Mcintyre and Villanueva",DE,1
+SUP_CN_01974,Baird-Williams,CN,1
+SUP_US_01975,Quinn-Gordon,US,1
+SUP_CN_01976,Schmidt-Mendoza,CN,1
+SUP_DE_01977,"Nicholson, Chavez and Allen",DE,1
+SUP_US_01978,"Mullins, Steele and Russell",US,1
+SUP_CN_01979,Anderson LLC,CN,1
+SUP_CN_01980,Holland Inc,CN,1
+SUP_CN_01981,Castillo LLC,CN,1
+SUP_CN_01982,Warner PLC,CN,1
+SUP_KR_01983,"Silva, Bray and Ford",KR,1
+SUP_DE_01984,Sawyer Group,DE,1
+SUP_CN_01985,Clarke LLC,CN,1
+SUP_DE_01986,"Marshall, Schultz and Dalton",DE,1
+SUP_CN_01987,Cruz Ltd,CN,1
+SUP_CN_01988,Schmidt-Phillips,CN,1
+SUP_CN_01989,Wolfe-Salazar,CN,1
+SUP_US_01990,"Norton, French and Miller",US,1
+SUP_CN_01991,Fitzgerald-Brown,CN,1
+SUP_KR_01992,"Cox, Williams and Reyes",KR,1
+SUP_CN_01993,Harvey-Diaz,CN,1
+SUP_US_01994,Wong Ltd,US,1
+SUP_DE_01995,Castro and Sons,DE,1
+SUP_CN_01996,Zavala and Sons,CN,1
+SUP_KR_01997,"Wilson, Mendoza and Crosby",KR,1
+SUP_JP_01998,"Pitts, Warner and Mullins",JP,1
+SUP_CN_01999,Flores LLC,CN,1
+SUP_CN_02000,"Frazier, Ramirez and Brown",CN,1
+SUP_CN_02001,Chavez-Mason,CN,1
+SUP_JP_02002,Harrison PLC,JP,1
+SUP_CN_02003,"Bryan, Lam and Hayes",CN,1
+SUP_CN_02004,Marsh-Dougherty,CN,1
+SUP_CN_02005,Lopez Group,CN,1
+SUP_XX_02006,Miller and Sons,XX,1
+SUP_US_02007,Mullen-Jones,US,1
+SUP_XX_02008,Hill Ltd,XX,1
+SUP_JP_02009,Crawford and Sons,JP,1
+SUP_CN_02010,"Crane, Johnson and Butler",CN,1
+SUP_KR_02011,"Weaver, Anderson and Reed",KR,1
+SUP_XX_02012,Rojas-Smith,XX,1
+SUP_XX_02013,Brown and Sons,XX,1
+SUP_JP_02014,"Newman, Jenkins and Cooper",JP,1
+SUP_DE_02015,"Buchanan, Tucker and Wade",DE,1
+SUP_CN_02016,"Wilkinson, Wallace and Torres",CN,1
+SUP_CN_02017,Villanueva LLC,CN,1
+SUP_CN_02018,Mccormick and Sons,CN,1
+SUP_CN_02019,Watson-Roberts,CN,1
+SUP_DE_02020,Hernandez LLC,DE,1
+SUP_KR_02021,Huber-Montgomery,KR,1
+SUP_US_02022,Joseph LLC,US,1
+SUP_CN_02023,Mcpherson Ltd,CN,1
+SUP_DE_02024,"Conway, Bauer and Martin",DE,1
+SUP_US_02025,Williams LLC,US,1
+SUP_XX_02026,"Martinez, Green and Lopez",XX,1
+SUP_KR_02027,"Mann, Wade and Spence",KR,1
+SUP_XX_02028,Watson PLC,XX,1
+SUP_KR_02029,Ferguson Inc,KR,1
+SUP_CN_02030,Sullivan Group,CN,1
+SUP_CN_02031,Gould LLC,CN,1
+SUP_CN_02032,Smith Ltd,CN,1
+SUP_JP_02033,"Cantrell, Rivera and Thornton",JP,1
+SUP_XX_02034,Kemp-Montes,XX,1
+SUP_US_02035,"Estrada, Marsh and Chandler",US,1
+SUP_CN_02036,Morgan-Rodriguez,CN,1
+SUP_DE_02037,Mccullough-Taylor,DE,1
+SUP_CN_02038,"Wilson, Johnson and Williamson",CN,1
+SUP_CN_02039,Griffin Inc,CN,1
+SUP_JP_02040,Brown-Davidson,JP,1
+SUP_JP_02041,"Fox, Harrington and Wang",JP,1
+SUP_US_02042,Johnson PLC,US,1
+SUP_CN_02043,Rhodes-Rosario,CN,1
+SUP_DE_02044,"Foster, Henry and Morrison",DE,1
+SUP_DE_02045,"Harding, Kerr and Ward",DE,1
+SUP_KR_02046,Baldwin Group,KR,1
+SUP_KR_02047,Hughes-Smith,KR,1
+SUP_US_02048,Bell-Madden,US,1
+SUP_CN_02049,"Miller, Luna and Wallace",CN,1
+SUP_XX_02050,Lara-Roberts,XX,1
+SUP_CN_02051,"Waller, Coleman and Mosley",CN,1
+SUP_XX_02052,Houston PLC,XX,1
+SUP_XX_02053,Thomas LLC,XX,1
+SUP_CN_02054,Mcneil-Fox,CN,1
+SUP_XX_02055,Jones-Choi,XX,1
+SUP_KR_02056,Davis-Ortiz,KR,1
+SUP_CN_02057,Perry-Peters,CN,1
+SUP_JP_02058,"Bradley, Melendez and Gonzalez",JP,1
+SUP_CN_02059,Roberts-Henry,CN,1
+SUP_XX_02060,Davenport-Torres,XX,1
+SUP_KR_02061,"Singh, Walker and Moody",KR,1
+SUP_DE_02062,Baker Ltd,DE,1
+SUP_CN_02063,"Kennedy, Valdez and Stafford",CN,1
+SUP_KR_02064,White-Knox,KR,1
+SUP_CN_02065,"Sanchez, Wilson and Ramirez",CN,1
+SUP_CN_02066,George LLC,CN,1
+SUP_KR_02067,"Castillo, Graham and Scott",KR,1
+SUP_KR_02068,"Alvarez, Benson and Wilson",KR,1
+SUP_CN_02069,"Quinn, Smith and Green",CN,1
+SUP_XX_02070,"Brown, Flores and Johns",XX,1
+SUP_KR_02071,Howard Inc,KR,1
+SUP_US_02072,Ward-Fields,US,1
+SUP_XX_02073,Williams-Carter,XX,1
+SUP_CN_02074,"Mayer, Palmer and Miranda",CN,1
+SUP_CN_02075,Duran PLC,CN,1
+SUP_KR_02076,Stephens LLC,KR,1
+SUP_CN_02077,"Marsh, Nelson and Wolfe",CN,1
+SUP_CN_02078,Davis-Carpenter,CN,1
+SUP_CN_02079,Smith PLC,CN,1
+SUP_XX_02080,Watson-Washington,XX,1
+SUP_KR_02081,Mccall-Martin,KR,1
+SUP_CN_02082,Moore and Sons,CN,1
+SUP_CN_02083,Pope PLC,CN,1
+SUP_CN_02084,"Norris, Cisneros and Mathis",CN,1
+SUP_CN_02085,"Arnold, Avila and Wilson",CN,1
+SUP_US_02086,Moon-Wilson,US,1
+SUP_KR_02087,Mclean Group,KR,1
+SUP_JP_02088,Collins-Cox,JP,1
+SUP_JP_02089,Preston-Harper,JP,1
+SUP_CN_02090,Jackson-Torres,CN,1
+SUP_US_02091,"Olsen, Walker and Vincent",US,1
+SUP_XX_02092,Watts LLC,XX,1
+SUP_JP_02093,Clark Inc,JP,1
+SUP_KR_02094,Vazquez-Bowers,KR,1
+SUP_CN_02095,Smith Group,CN,1
+SUP_DE_02096,Williams-Rodriguez,DE,1
+SUP_CN_02097,"Palmer, Brown and Wilson",CN,1
+SUP_DE_02098,Williams-Turner,DE,1
+SUP_KR_02099,Webster Inc,KR,1
+SUP_XX_02100,"Harris, Santana and Lopez",XX,1
+SUP_KR_02101,Johnson-Thomas,KR,1
+SUP_JP_02102,"Mcmahon, Rush and Bailey",JP,1
+SUP_CN_02103,Wyatt Ltd,CN,1
+SUP_CN_02104,"Allen, Hudson and Garcia",CN,1
+SUP_US_02105,"Hines, Rice and Baldwin",US,1
+SUP_XX_02106,Jackson-Webster,XX,1
+SUP_JP_02107,Beltran Inc,JP,1
+SUP_DE_02108,Knapp Ltd,DE,1
+SUP_CN_02109,Richardson-Lawrence,CN,1
+SUP_US_02110,Nunez-Rodriguez,US,1
+SUP_CN_02111,Zavala-Coleman,CN,1
+SUP_DE_02112,"Perez, Rodriguez and Rollins",DE,1
+SUP_CN_02113,Owens PLC,CN,1
+SUP_KR_02114,Simpson LLC,KR,1
+SUP_CN_02115,"Roberts, Bowen and Miller",CN,1
+SUP_JP_02116,Wilson-Campbell,JP,1
+SUP_JP_02117,"Fitzgerald, Mcdaniel and Randall",JP,1
+SUP_JP_02118,Spencer LLC,JP,1
+SUP_KR_02119,Lopez-Jones,KR,1
+SUP_KR_02120,Crosby-Richardson,KR,1
+SUP_CN_02121,Lutz Group,CN,1
+SUP_KR_02122,"Garcia, Kim and Barrett",KR,1
+SUP_CN_02123,Wilson Group,CN,1
+SUP_KR_02124,Neal-Madden,KR,1
+SUP_CN_02125,"Schaefer, Levine and Brown",CN,1
+SUP_XX_02126,Morgan PLC,XX,1
+SUP_CN_02127,Martinez-Massey,CN,1
+SUP_US_02128,"Porter, Hubbard and Miranda",US,1
+SUP_JP_02129,"Nelson, Clarke and Schneider",JP,1
+SUP_US_02130,Kelly-Estrada,US,1
+SUP_XX_02131,Archer-Dixon,XX,1
+SUP_CN_02132,Tate Inc,CN,1
+SUP_CN_02133,King Group,CN,1
+SUP_CN_02134,Fuller and Sons,CN,1
+SUP_CN_02135,Garcia Inc,CN,1
+SUP_KR_02136,Jimenez Inc,KR,1
+SUP_US_02137,Reyes Ltd,US,1
+SUP_CN_02138,Hernandez-Howell,CN,1
+SUP_CN_02139,Wolf Ltd,CN,1
+SUP_CN_02140,"Saunders, Sparks and Harris",CN,1
+SUP_CN_02141,"Jimenez, Wagner and Daniels",CN,1
+SUP_KR_02142,"Payne, Cisneros and Johnson",KR,1
+SUP_XX_02143,Beard-Wilson,XX,1
+SUP_CN_02144,Edwards-Bennett,CN,1
+SUP_JP_02145,Johnson-Thompson,JP,1
+SUP_US_02146,"Dalton, Turner and Mccarthy",US,1
+SUP_JP_02147,Jordan-Edwards,JP,1
+SUP_US_02148,Freeman-Rodriguez,US,1
+SUP_DE_02149,"Henry, Spencer and Ryan",DE,1
+SUP_CN_02150,Alvarez-Dickerson,CN,1
+SUP_CN_02151,"Brown, Baker and Garza",CN,1
+SUP_KR_02152,Jensen-Gomez,KR,1
+SUP_CN_02153,Flores-Johnson,CN,1
+SUP_CN_02154,Anderson LLC,CN,1
+SUP_CN_02155,Pacheco-Silva,CN,1
+SUP_KR_02156,"Peterson, Davis and Reed",KR,1
+SUP_CN_02157,Jenkins-Brown,CN,1
+SUP_DE_02158,Wright Ltd,DE,1
+SUP_KR_02159,Watkins-Lozano,KR,1
+SUP_US_02160,Melton Inc,US,1
+SUP_CN_02161,Jackson-Ryan,CN,1
+SUP_KR_02162,Murray Group,KR,1
+SUP_CN_02163,"Robertson, Fisher and Smith",CN,1
+SUP_CN_02164,Chapman-Odom,CN,1
+SUP_US_02165,Hudson-Morris,US,1
+SUP_US_02166,Stokes Inc,US,1
+SUP_KR_02167,"Leonard, Rogers and Shaw",KR,1
+SUP_CN_02168,"Morgan, Mendez and Cox",CN,1
+SUP_CN_02169,Harris-Reid,CN,1
+SUP_XX_02170,Pittman PLC,XX,1
+SUP_US_02171,Mitchell Inc,US,1
+SUP_KR_02172,Davies-Morales,KR,1
+SUP_CN_02173,Weber Inc,CN,1
+SUP_XX_02174,"Richard, Davis and Rogers",XX,1
+SUP_CN_02175,Knight PLC,CN,1
+SUP_XX_02176,Simmons-Reed,XX,1
+SUP_KR_02177,Pearson LLC,KR,1
+SUP_DE_02178,"Brock, Reynolds and Fernandez",DE,1
+SUP_DE_02179,Perry LLC,DE,1
+SUP_CN_02180,"Robertson, Powers and Kelley",CN,1
+SUP_CN_02181,Burton PLC,CN,1
+SUP_CN_02182,Ray and Sons,CN,1
+SUP_CN_02183,"Hayden, Harmon and Mcdonald",CN,1
+SUP_US_02184,"Patel, Mendez and Hammond",US,1
+SUP_CN_02185,Michael-Barber,CN,1
+SUP_US_02186,Boyd LLC,US,1
+SUP_CN_02187,Hernandez-Hernandez,CN,1
+SUP_DE_02188,"Cannon, Richard and Jenkins",DE,1
+SUP_CN_02189,Walters Group,CN,1
+SUP_XX_02190,Colon-Lucas,XX,1
+SUP_DE_02191,Mcdaniel-Young,DE,1
+SUP_KR_02192,Wilson and Sons,KR,1
+SUP_XX_02193,Sanchez LLC,XX,1
+SUP_CN_02194,Washington-Esparza,CN,1
+SUP_CN_02195,Lucas-Johnson,CN,1
+SUP_US_02196,Nelson Inc,US,1
+SUP_CN_02197,Clarke-Ramirez,CN,1
+SUP_DE_02198,"Thompson, Phelps and Stuart",DE,1
+SUP_XX_02199,Casey-Brown,XX,1
+SUP_CN_02200,Edwards LLC,CN,1
+SUP_DE_02201,Lester Group,DE,1
+SUP_CN_02202,Powers-Blackwell,CN,1
+SUP_CN_02203,Hahn-Ramsey,CN,1
+SUP_XX_02204,Young PLC,XX,1
+SUP_KR_02205,"Mason, Martinez and Beck",KR,1
+SUP_CN_02206,"Herring, Huynh and King",CN,1
+SUP_XX_02207,Young Inc,XX,1
+SUP_CN_02208,Murphy-Silva,CN,1
+SUP_JP_02209,Shaffer-Manning,JP,1
+SUP_JP_02210,Robinson-Rodriguez,JP,1
+SUP_CN_02211,Booker Group,CN,1
+SUP_JP_02212,King-Lawrence,JP,1
+SUP_DE_02213,Ferguson-Lyons,DE,1
+SUP_DE_02214,Stewart Group,DE,1
+SUP_CN_02215,Vega-Richmond,CN,1
+SUP_CN_02216,Cox Ltd,CN,1
+SUP_DE_02217,Underwood-Smith,DE,1
+SUP_JP_02218,"Johnson, Stevenson and Lindsey",JP,1
+SUP_DE_02219,Vazquez Ltd,DE,1
+SUP_CN_02220,King Group,CN,1
+SUP_CN_02221,Fowler-Haynes,CN,1
+SUP_CN_02222,"Martinez, Camacho and Mathews",CN,1
+SUP_CN_02223,Smith-Yu,CN,1
+SUP_CN_02224,Turner-Mayer,CN,1
+SUP_CN_02225,Evans and Sons,CN,1
+SUP_CN_02226,Welch-Suarez,CN,1
+SUP_CN_02227,"Sullivan, Johnson and Delacruz",CN,1
+SUP_CN_02228,Ruiz-Gutierrez,CN,1
+SUP_KR_02229,Love-Mcdowell,KR,1
+SUP_CN_02230,Holloway Ltd,CN,1
+SUP_CN_02231,Hunter-Bell,CN,1
+SUP_CN_02232,"Daniel, Kelley and Murphy",CN,1
+SUP_CN_02233,"Johnson, Williams and May",CN,1
+SUP_KR_02234,"Ramos, Davidson and Smith",KR,1
+SUP_CN_02235,Fuller LLC,CN,1
+SUP_CN_02236,"Miller, Moore and Black",CN,1
+SUP_CN_02237,"Hines, Bradford and Jennings",CN,1
+SUP_CN_02238,Hayes-Russo,CN,1
+SUP_CN_02239,Green Ltd,CN,1
+SUP_XX_02240,"Serrano, Marsh and Gonzalez",XX,1
+SUP_XX_02241,Richardson-Long,XX,1
+SUP_XX_02242,Duffy-Wilkerson,XX,40
+SUP_KR_02243,Smith Inc,KR,1
+SUP_CN_02244,"Holland, Sims and Meadows",CN,1
+SUP_CN_02245,Gonzalez-Haynes,CN,1
+SUP_CN_02246,Williams PLC,CN,1
+SUP_CN_02247,Burke-Hernandez,CN,1
+SUP_KR_02248,Jackson-Bradley,KR,1
+SUP_CN_02249,Higgins Group,CN,1
+SUP_CN_02250,Wilcox-Snyder,CN,1
+SUP_CN_02251,Reeves and Sons,CN,1
+SUP_KR_02252,Roberts-Snyder,KR,1
+SUP_CN_02253,Reynolds and Sons,CN,1
+SUP_CN_02254,"Lewis, Holloway and Acosta",CN,1
+SUP_CN_02255,Barnes Group,CN,1
+SUP_JP_02256,Johnson LLC,JP,1
+SUP_KR_02257,Williamson and Sons,KR,1
+SUP_CN_02258,Aguilar-Holland,CN,1
+SUP_CN_02259,Smith and Sons,CN,1
+SUP_CN_02260,Mccann-Sanders,CN,1
+SUP_XX_02261,Reeves Ltd,XX,1
+SUP_CN_02262,Fitzgerald-Scott,CN,1
+SUP_JP_02263,Hawkins Inc,JP,1
+SUP_US_02264,Galvan-Ruiz,US,1
+SUP_CN_02265,Barajas-Crosby,CN,1
+SUP_CN_02266,"Mckinney, Pacheco and Smith",CN,1
+SUP_US_02267,"Harvey, Turner and Foster",US,1
+SUP_US_02268,Anderson-Mcclain,US,1
+SUP_XX_02269,Carpenter LLC,XX,1
+SUP_CN_02270,Gordon LLC,CN,1
+SUP_CN_02271,Anderson-Stewart,CN,1
+SUP_XX_02272,"Hamilton, Green and Edwards",XX,1
+SUP_CN_02273,Porter LLC,CN,1
+SUP_CN_02274,"Ward, Jordan and Orr",CN,1
+SUP_XX_02275,Austin-Juarez,XX,1
+SUP_XX_02276,Black-Graham,XX,1
+SUP_CN_02277,Stewart Group,CN,1
+SUP_JP_02278,Peters Ltd,JP,1
+SUP_KR_02279,"Yates, Brown and Hernandez",KR,1
+SUP_KR_02280,White Group,KR,1
+SUP_CN_02281,Martin-Mcdonald,CN,1
+SUP_CN_02282,Carney Group,CN,1
+SUP_US_02283,Alexander Ltd,US,1
+SUP_CN_02284,"Washington, Vasquez and Singleton",CN,1
+SUP_CN_02285,Martinez Inc,CN,1
+SUP_KR_02286,Oneill and Sons,KR,1
+SUP_KR_02287,Brady LLC,KR,1
+SUP_KR_02288,"Macdonald, Willis and Silva",KR,1
+SUP_JP_02289,Fox PLC,JP,1
+SUP_KR_02290,Butler Inc,KR,1
+SUP_XX_02291,Tate Ltd,XX,1
+SUP_KR_02292,Clay Inc,KR,1
+SUP_DE_02293,Maldonado-Becker,DE,1
+SUP_CN_02294,Brooks-Hickman,CN,1
+SUP_CN_02295,Hood and Sons,CN,1
+SUP_JP_02296,Miller Ltd,JP,1
+SUP_US_02297,"Castillo, Fuller and Adams",US,1
+SUP_DE_02298,"Smith, Booker and Douglas",DE,1
+SUP_CN_02299,Nguyen-Dennis,CN,1
+SUP_KR_02300,"Meadows, Robles and Anderson",KR,1
+SUP_JP_02301,Solis LLC,JP,1
+SUP_CN_02302,Yates-Manning,CN,1
+SUP_JP_02303,"Crane, James and Ross",JP,1
+SUP_DE_02304,Allen Group,DE,1
+SUP_DE_02305,Smith and Sons,DE,1
+SUP_CN_02306,Price Group,CN,1
+SUP_XX_02307,Holland-Best,XX,1
+SUP_KR_02308,Martinez Group,KR,1
+SUP_CN_02309,Fitzgerald-Dorsey,CN,1
+SUP_KR_02310,"Munoz, Howard and Davis",KR,1
+SUP_XX_02311,Hunt-Burns,XX,1
+SUP_JP_02312,Alvarez-Hart,JP,1
+SUP_KR_02313,Davis-Henderson,KR,1
+SUP_DE_02314,Austin-Hamilton,DE,1
+SUP_CN_02315,Davis-Palmer,CN,1
+SUP_US_02316,Rhodes-Holland,US,1
+SUP_KR_02317,"Moore, Simpson and Soto",KR,1
+SUP_JP_02318,"Miller, Mcdonald and Miller",JP,1
+SUP_CN_02319,Evans-Joyce,CN,1
+SUP_DE_02320,"Leach, Skinner and Mills",DE,1
+SUP_JP_02321,Carroll-Arnold,JP,1
+SUP_CN_02322,Palmer PLC,CN,1
+SUP_JP_02323,Gutierrez-Marshall,JP,1
+SUP_CN_02324,"Carroll, King and Scott",CN,1
+SUP_XX_02325,Mack Inc,XX,1
+SUP_JP_02326,Yang Group,JP,1
+SUP_CN_02327,Hartman Group,CN,1
+SUP_DE_02328,Miller Ltd,DE,1
+SUP_XX_02329,Edwards-Ramsey,XX,1
+SUP_CN_02330,"Cole, Morton and Peterson",CN,1
+SUP_CN_02331,Clark Inc,CN,1
+SUP_CN_02332,"Hendrix, Green and Nunez",CN,1
+SUP_KR_02333,Ferguson-Smith,KR,1
+SUP_KR_02334,Smith Ltd,KR,1
+SUP_KR_02335,Stevens-Sullivan,KR,1
+SUP_KR_02336,"Church, Guzman and Tucker",KR,1
+SUP_CN_02337,"Li, Jensen and Vazquez",CN,1
+SUP_CN_02338,"Leonard, Ballard and Miller",CN,1
+SUP_DE_02339,Smith Inc,DE,1
+SUP_KR_02340,Horton and Sons,KR,1
+SUP_KR_02341,Clark Ltd,KR,1
+SUP_CN_02342,Santos Group,CN,1
+SUP_CN_02343,"Garrison, Ryan and Miller",CN,1
+SUP_CN_02344,Hernandez-Henderson,CN,1
+SUP_CN_02345,Martin and Sons,CN,1
+SUP_XX_02346,"Park, Maynard and Ruiz",XX,1
+SUP_CN_02347,Richards-Harris,CN,1
+SUP_XX_02348,"Gallegos, Myers and Cook",XX,1
+SUP_CN_02349,Mccoy Ltd,CN,1
+SUP_CN_02350,Petty-Allison,CN,1
+SUP_KR_02351,"Lane, Simon and Duarte",KR,1
+SUP_CN_02352,Freeman Group,CN,1
+SUP_KR_02353,"Garza, Carr and Gregory",KR,1
+SUP_KR_02354,Hall-Brown,KR,1
+SUP_CN_02355,Henderson LLC,CN,1
+SUP_JP_02356,"Brown, Orozco and Butler",JP,1
+SUP_CN_02357,Wilson-Dean,CN,1
+SUP_CN_02358,"Reed, Terry and Smith",CN,1
+SUP_US_02359,Barber-Harrison,US,1
+SUP_CN_02360,Hall-Robinson,CN,1
+SUP_US_02361,"Morgan, Guzman and Kirby",US,1
+SUP_JP_02362,"Mcdonald, Ware and Sharp",JP,1
+SUP_JP_02363,Moyer-Whitaker,JP,1
+SUP_CN_02364,"Delgado, Ward and Kennedy",CN,1
+SUP_XX_02365,Howell LLC,XX,1
+SUP_CN_02366,"Curry, Estrada and Anderson",CN,1
+SUP_CN_02367,Moore Group,CN,1
+SUP_CN_02368,Leon Group,CN,1
+SUP_KR_02369,Young-Hawkins,KR,1
+SUP_XX_02370,Howard LLC,XX,1
+SUP_CN_02371,Rhodes-Thompson,CN,1
+SUP_CN_02372,"Johnson, Brown and Jordan",CN,1
+SUP_CN_02373,"Perez, Hoffman and Tucker",CN,1
+SUP_JP_02374,Glover-Hammond,JP,1
+SUP_CN_02375,"Adams, Hernandez and Vaughn",CN,1
+SUP_CN_02376,"Munoz, Garcia and Williams",CN,1
+SUP_JP_02377,Lloyd-Estes,JP,1
+SUP_CN_02378,Villegas PLC,CN,1
+SUP_KR_02379,"Casey, Meza and Colon",KR,1
+SUP_CN_02380,Romero and Sons,CN,1
+SUP_DE_02381,"Wilson, Harris and Ward",DE,1
+SUP_CN_02382,"Carter, Alexander and Hunter",CN,1
+SUP_DE_02383,"Harrell, Moore and Cox",DE,1
+SUP_US_02384,Martinez and Sons,US,1
+SUP_CN_02385,Montes-Hammond,CN,1
+SUP_CN_02386,Sanchez Group,CN,1
+SUP_US_02387,Mitchell-Jackson,US,1
+SUP_CN_02388,Watson-Fischer,CN,1
+SUP_CN_02389,Soto-Sanchez,CN,1
+SUP_KR_02390,"Fisher, Perez and Pham",KR,1
+SUP_CN_02391,Hardin-Villanueva,CN,1
+SUP_US_02392,"Norton, Cox and Johnson",US,1
+SUP_KR_02393,Carrillo Ltd,KR,1
+SUP_JP_02394,"Acevedo, Miller and Edwards",JP,1
+SUP_KR_02395,Hamilton Group,KR,1
+SUP_JP_02396,Keller Ltd,JP,1
+SUP_KR_02397,Orr Inc,KR,1
+SUP_CN_02398,"Whitney, Lloyd and Liu",CN,1
+SUP_US_02399,Barnes-Blackwell,US,1
+SUP_JP_02400,"Spencer, Torres and Newton",JP,1
+SUP_US_02401,Smith-Ramirez,US,1
+SUP_DE_02402,"Bishop, Thomas and Powell",DE,1
+SUP_CN_02403,"Harris, Stephens and Kramer",CN,1
+SUP_JP_02404,"Ramos, Reed and Cain",JP,1
+SUP_CN_02405,"Sullivan, Gonzalez and Turner",CN,1
+SUP_CN_02406,Medina Group,CN,1
+SUP_CN_02407,"Higgins, Hobbs and Meyer",CN,1
+SUP_CN_02408,"Campbell, Davis and Arnold",CN,1
+SUP_CN_02409,"Peterson, Reid and Johnson",CN,1
+SUP_JP_02410,"Vargas, Allen and Schroeder",JP,1
+SUP_KR_02411,"Henderson, Wagner and Dennis",KR,1
+SUP_CN_02412,Green-Romero,CN,1
+SUP_CN_02413,Williams Ltd,CN,1
+SUP_CN_02414,West PLC,CN,1
+SUP_CN_02415,"Smith, Morgan and Young",CN,1
+SUP_JP_02416,"Zhang, Cunningham and Kline",JP,1
+SUP_JP_02417,"Wade, Richard and Hall",JP,1
+SUP_JP_02418,Mitchell-Glover,JP,1
+SUP_XX_02419,"Armstrong, Taylor and Gray",XX,1
+SUP_KR_02420,"Wright, Murphy and Aguilar",KR,1
+SUP_KR_02421,Gibson-Thomas,KR,1
+SUP_CN_02422,Poole-Miller,CN,1
+SUP_CN_02423,Coleman and Sons,CN,1
+SUP_KR_02424,Lewis-Miller,KR,1
+SUP_CN_02425,"Fox, Chapman and Stone",CN,1
+SUP_CN_02426,Wiggins-Silva,CN,1
+SUP_CN_02427,"Henderson, Alexander and Galvan",CN,1
+SUP_CN_02428,Dennis-Butler,CN,1
+SUP_US_02429,Thomas and Sons,US,1
+SUP_XX_02430,Dawson-Anderson,XX,1
+SUP_KR_02431,"Palmer, Rice and Benson",KR,1
+SUP_KR_02432,Kennedy-Francis,KR,1
+SUP_JP_02433,"Wood, Crane and Guzman",JP,1
+SUP_CN_02434,Rodriguez-Wood,CN,1
+SUP_US_02435,Williams-Hernandez,US,1
+SUP_KR_02436,Torres-Brooks,KR,1
+SUP_CN_02437,Tucker-Moody,CN,1
+SUP_CN_02438,Bowers Group,CN,1
+SUP_DE_02439,Zuniga LLC,DE,1
+SUP_CN_02440,Lewis-Fuentes,CN,1
+SUP_CN_02441,Smith-Kelley,CN,1
+SUP_KR_02442,Harrell Group,KR,1
+SUP_CN_02443,Berry-Knight,CN,1
+SUP_KR_02444,Harrington-Alvarez,KR,1
+SUP_DE_02445,"Bass, Anderson and Taylor",DE,1
+SUP_DE_02446,"Murray, Cole and Cole",DE,1
+SUP_KR_02447,"Nguyen, Marsh and Beck",KR,1
+SUP_CN_02448,Hughes-Mccullough,CN,1
+SUP_CN_02449,Weaver-Rubio,CN,1
+SUP_DE_02450,Fitzgerald-Brewer,DE,1
+SUP_US_02451,Mann PLC,US,1
+SUP_CN_02452,"Hogan, Zimmerman and Hoffman",CN,1
+SUP_US_02453,Schneider Inc,US,1
+SUP_CN_02454,Friedman PLC,CN,1
+SUP_DE_02455,"Todd, Bernard and Boyd",DE,1
+SUP_KR_02456,Shaw-Smith,KR,1
+SUP_XX_02457,"Mayer, White and Smith",XX,1
+SUP_CN_02458,Sanchez Ltd,CN,1
+SUP_US_02459,"Wallace, Roman and Lawson",US,1
+SUP_DE_02460,Chapman-Henry,DE,1
+SUP_CN_02461,Morgan and Sons,CN,1
+SUP_XX_02462,Johnson-Rice,XX,1
+SUP_CN_02463,Scott-Wilson,CN,1
+SUP_CN_02464,Weaver LLC,CN,1
+SUP_US_02465,White Inc,US,1
+SUP_CN_02466,Parker Group,CN,1
+SUP_XX_02467,"Jackson, Mendez and Nguyen",XX,1
+SUP_DE_02468,Reeves LLC,DE,1
+SUP_CN_02469,Garcia-Thomas,CN,1
+SUP_US_02470,Scott-David,US,1
+SUP_KR_02471,Williams and Sons,KR,1
+SUP_CN_02472,"Willis, Vasquez and Goodwin",CN,1
+SUP_DE_02473,Avery-Adams,DE,1
+SUP_JP_02474,Marshall-Russell,JP,1
+SUP_CN_02475,Johnson-Schultz,CN,1
+SUP_CN_02476,Adams PLC,CN,1
+SUP_CN_02477,"Garcia, Hines and Pearson",CN,1
+SUP_CN_02478,Torres Group,CN,1
+SUP_CN_02479,Miller-Fields,CN,1
+SUP_CN_02480,Patton and Sons,CN,1
+SUP_CN_02481,Fernandez-Jackson,CN,1
+SUP_KR_02482,Medina Group,KR,1
+SUP_CN_02483,"Hayes, Smith and Marshall",CN,1
+SUP_DE_02484,"Roberts, Stanton and Smith",DE,1
+SUP_CN_02485,Nelson-King,CN,1
+SUP_CN_02486,"James, Bell and Chen",CN,1
+SUP_US_02487,"Pittman, Campbell and Martin",US,1
+SUP_XX_02488,"Hart, Turner and Foster",XX,1
+SUP_JP_02489,Rivas Ltd,JP,1
+SUP_CN_02490,"Lutz, Johns and Clark",CN,1
+SUP_XX_02491,"Bernard, Flores and Fleming",XX,1
+SUP_DE_02492,Reid-Petty,DE,1
+SUP_XX_02493,"Chavez, Sanchez and Bird",XX,1
+SUP_XX_02494,Clark-Haley,XX,1
+SUP_US_02495,Smith-Holt,US,1
+SUP_CN_02496,"Nielsen, Lynch and Smith",CN,1
+SUP_US_02497,Chambers Group,US,1
+SUP_CN_02498,"Woodard, Warner and Farmer",CN,1
+SUP_DE_02499,"Miller, Mcdowell and Curtis",DE,1
+SUP_US_02500,"Johnson, Collier and Powers",US,1
+SUP_DE_02501,"Martinez, Stanton and Bennett",DE,1
+SUP_JP_02502,"Howard, Thompson and Tate",JP,1
+SUP_KR_02503,"Terrell, Martinez and Wood",KR,1
+SUP_KR_02504,Wallace and Sons,KR,1
+SUP_CN_02505,"Smith, Campbell and Morse",CN,1
+SUP_CN_02506,Lee-Velasquez,CN,1
+SUP_KR_02507,"Turner, Robbins and Young",KR,1
+SUP_JP_02508,Coffey-Johnson,JP,1
+SUP_US_02509,Conway-Mann,US,1
+SUP_CN_02510,Smith Ltd,CN,1
+SUP_KR_02511,Rodriguez-Ramirez,KR,1
+SUP_CN_02512,"Snyder, Arnold and Keller",CN,1
+SUP_XX_02513,"Chambers, Morrison and Thompson",XX,1
+SUP_CN_02514,"Anderson, Brown and Green",CN,1
+SUP_XX_02515,"Foley, Ibarra and Daniel",XX,1
+SUP_CN_02516,Lee-Gregory,CN,1
+SUP_CN_02517,"Byrd, Mendez and Becker",CN,1
+SUP_DE_02518,Smith-Simmons,DE,1
+SUP_DE_02519,"Hahn, Williams and Mcmillan",DE,1
+SUP_DE_02520,Richard-Russell,DE,1
+SUP_KR_02521,Frazier Group,KR,1
+SUP_JP_02522,Ward-Blake,JP,1
+SUP_CN_02523,"Walker, Ramirez and Fisher",CN,1
+SUP_CN_02524,Stewart-Myers,CN,1
+SUP_KR_02525,Miller-Armstrong,KR,1
+SUP_CN_02526,Mooney and Sons,CN,1
+SUP_CN_02527,"Coleman, Jones and Wright",CN,1
+SUP_CN_02528,Murphy Inc,CN,1
+SUP_CN_02529,"Garrett, Johnson and Reynolds",CN,1
+SUP_US_02530,Watkins Ltd,US,1
+SUP_CN_02531,Pittman-Wright,CN,1
+SUP_KR_02532,Allen-Peterson,KR,1
+SUP_KR_02533,Underwood PLC,KR,1
+SUP_KR_02534,Harding PLC,KR,1
+SUP_CN_02535,"Gonzales, Davis and Griffin",CN,1
+SUP_JP_02536,Miller Inc,JP,1
+SUP_CN_02537,Bennett Ltd,CN,1
+SUP_CN_02538,Patton Inc,CN,1
+SUP_DE_02539,Brown-Bishop,DE,1
+SUP_KR_02540,Jones-Byrd,KR,1
+SUP_CN_02541,"Williams, Horn and Morales",CN,1
+SUP_US_02542,"Walton, Hall and Greene",US,1
+SUP_CN_02543,"Hanson, Chavez and Marshall",CN,1
+SUP_CN_02544,Hobbs-Harvey,CN,1
+SUP_XX_02545,Curtis-Lowe,XX,1
+SUP_CN_02546,Gibson LLC,CN,1
+SUP_JP_02547,"Lee, Garcia and Larson",JP,1
+SUP_CN_02548,Watkins and Sons,CN,1
+SUP_JP_02549,"Martinez, Hicks and Kelly",JP,1
+SUP_CN_02550,Hardy-Wallace,CN,1
+SUP_XX_02551,Taylor Inc,XX,1
+SUP_CN_02552,Anderson PLC,CN,1
+SUP_JP_02553,Palmer-Pearson,JP,1
+SUP_CN_02554,Collins-Mcclure,CN,1
+SUP_CN_02555,Hernandez LLC,CN,1
+SUP_XX_02556,"Cooper, Wood and Smith",XX,1
+SUP_CN_02557,"Sandoval, Thomas and Young",CN,1
+SUP_CN_02558,"Trevino, Henderson and Gonzalez",CN,1
+SUP_CN_02559,Davidson and Sons,CN,1
+SUP_JP_02560,Peterson Ltd,JP,1
+SUP_CN_02561,Neal-Holden,CN,1
+SUP_JP_02562,"Schwartz, Christian and Knight",JP,1
+SUP_DE_02563,Jensen-Barnes,DE,1
+SUP_CN_02564,Garcia Inc,CN,1
+SUP_KR_02565,Robinson-Smith,KR,1
+SUP_CN_02566,Steele Group,CN,1
+SUP_CN_02567,"Lewis, Castillo and Tate",CN,1
+SUP_JP_02568,Aguirre-Bennett,JP,1
+SUP_CN_02569,Lopez-Fritz,CN,1
+SUP_JP_02570,Smith-Howard,JP,1
+SUP_US_02571,"Wilson, Roberts and Lee",US,1
+SUP_XX_02572,"Durham, Ward and Hester",XX,1
+SUP_CN_02573,Gonzalez and Sons,CN,1
+SUP_CN_02574,Mcclure Ltd,CN,1
+SUP_CN_02575,Morgan PLC,CN,1
+SUP_CN_02576,White Inc,CN,1
+SUP_DE_02577,Cameron Inc,DE,1
+SUP_CN_02578,Decker and Sons,CN,1
+SUP_CN_02579,Pena-Dyer,CN,1
+SUP_US_02580,Boyle-Torres,US,1
+SUP_CN_02581,Wood LLC,CN,1
+SUP_DE_02582,"Jackson, Rose and Lloyd",DE,1
+SUP_DE_02583,"Keith, Johns and Jones",DE,1
+SUP_CN_02584,Andrade and Sons,CN,1
+SUP_XX_02585,Lee Group,XX,1
+SUP_CN_02586,"Brooks, Greene and Rowland",CN,1
+SUP_KR_02587,Mccall PLC,KR,1
+SUP_CN_02588,"Lopez, Nichols and Clarke",CN,1
+SUP_JP_02589,Wright-Soto,JP,1
+SUP_CN_02590,Salas-York,CN,1
+SUP_DE_02591,"Blackwell, Clark and Miller",DE,1
+SUP_JP_02592,Gibbs-Mendez,JP,1
+SUP_CN_02593,Romero Ltd,CN,1
+SUP_CN_02594,"Brooks, Stone and White",CN,1
+SUP_JP_02595,"Brooks, Neal and Baldwin",JP,1
+SUP_US_02596,Wells-Perkins,US,1
+SUP_CN_02597,"Morse, Silva and Johnson",CN,1
+SUP_CN_02598,Jacobson Group,CN,1
+SUP_DE_02599,Foster LLC,DE,1
+SUP_KR_02600,Oneal-Duncan,KR,1
+SUP_CN_02601,Scott-Miller,CN,1
+SUP_XX_02602,Phillips PLC,XX,1
+SUP_CN_02603,Hall-Williams,CN,1
+SUP_CN_02604,"Oliver, Simmons and Mcdonald",CN,1
+SUP_CN_02605,Richardson-Jimenez,CN,1
+SUP_CN_02606,Reyes-White,CN,1
+SUP_KR_02607,Baker Inc,KR,1
+SUP_JP_02608,Valenzuela-Phillips,JP,1
+SUP_JP_02609,"Hunt, Schneider and Hartman",JP,1
+SUP_DE_02610,Garcia Inc,DE,1
+SUP_JP_02611,Johnson-Gonzalez,JP,1
+SUP_US_02612,Leonard LLC,US,1
+SUP_JP_02613,Mcgee-Mack,JP,1
+SUP_CN_02614,Lee-Munoz,CN,1
+SUP_KR_02615,Murillo Ltd,KR,1
+SUP_KR_02616,"Daniels, Green and Carrillo",KR,1
+SUP_DE_02617,Short-Logan,DE,27
+SUP_CN_02618,Bautista-Underwood,CN,1
+SUP_CN_02619,"Smith, Valdez and Hays",CN,1
+SUP_US_02620,Grimes and Sons,US,1
+SUP_XX_02621,Cummings and Sons,XX,1
+SUP_KR_02622,Hall-Matthews,KR,1
+SUP_CN_02623,"Todd, Sharp and Murray",CN,1
+SUP_KR_02624,Edwards and Sons,KR,1
+SUP_KR_02625,Carrillo-Wolfe,KR,1
+SUP_KR_02626,Gonzales PLC,KR,1
+SUP_XX_02627,Brooks PLC,XX,1
+SUP_XX_02628,Torres Ltd,XX,1
+SUP_XX_02629,Porter Ltd,XX,1
+SUP_CN_02630,Morgan-Barnes,CN,1
+SUP_US_02631,"Goodwin, Farmer and Vaughn",US,1
+SUP_KR_02632,Nguyen-Johnson,KR,1
+SUP_CN_02633,Weeks and Sons,CN,1
+SUP_JP_02634,Carroll-Lloyd,JP,1
+SUP_DE_02635,"Berry, Myers and James",DE,1
+SUP_XX_02636,Brown-Hughes,XX,1
+SUP_DE_02637,Rodriguez-Hudson,DE,1
+SUP_CN_02638,Fowler-Torres,CN,1
+SUP_CN_02639,Garcia PLC,CN,1
+SUP_CN_02640,Johnson Ltd,CN,1
+SUP_CN_02641,"Burns, Lopez and Jones",CN,1
+SUP_CN_02642,Campbell-Hall,CN,1
+SUP_DE_02643,"Warren, Gibson and Wood",DE,1
+SUP_KR_02644,Jackson Group,KR,1
+SUP_JP_02645,Moore-Rodriguez,JP,1
+SUP_KR_02646,"Barnes, Paul and Price",KR,1
+SUP_CN_02647,Anderson and Sons,CN,1
+SUP_DE_02648,Reynolds-Mckinney,DE,1
+SUP_CN_02649,Moore-Andrews,CN,1
+SUP_KR_02650,Matthews-Shaw,KR,1
+SUP_JP_02651,"Stevens, Harris and Ritter",JP,1
+SUP_CN_02652,Brown-Ross,CN,1
+SUP_CN_02653,Fox PLC,CN,1
+SUP_KR_02654,Stevens-Johnston,KR,1
+SUP_CN_02655,"Davis, Lucas and Ellison",CN,1
+SUP_US_02656,Graves-Dawson,US,1
+SUP_KR_02657,Myers-Colon,KR,1
+SUP_CN_02658,Perry and Sons,CN,1
+SUP_JP_02659,"Quinn, Ellis and Bartlett",JP,1
+SUP_US_02660,Hale Inc,US,1
+SUP_JP_02661,Hale-Williams,JP,1
+SUP_CN_02662,Hill Ltd,CN,1
+SUP_JP_02663,"Carter, Hendricks and Wolfe",JP,1
+SUP_DE_02664,"Barrera, Kerr and Jenkins",DE,1
+SUP_US_02665,"Martinez, Wood and Campos",US,1
+SUP_CN_02666,"Miranda, Nguyen and Hayes",CN,1
+SUP_CN_02667,Clark-Williams,CN,1
+SUP_CN_02668,Jones Ltd,CN,1
+SUP_KR_02669,"Brady, James and Reese",KR,1
+SUP_JP_02670,Sanders Inc,JP,1
+SUP_CN_02671,Wilson-Stark,CN,1
+SUP_DE_02672,Santiago-Marshall,DE,1
+SUP_DE_02673,Jones-Kelley,DE,1
+SUP_CN_02674,Reeves Group,CN,1
+SUP_DE_02675,Ruiz LLC,DE,1
+SUP_DE_02676,Jackson Inc,DE,1
+SUP_CN_02677,"Garcia, Phillips and Nichols",CN,1
+SUP_XX_02678,Jackson-Powers,XX,1
+SUP_KR_02679,Byrd and Sons,KR,1
+SUP_DE_02680,Howard-Robinson,DE,1
+SUP_DE_02681,Stafford PLC,DE,1
+SUP_CN_02682,Ramos Inc,CN,1
+SUP_CN_02683,"Cain, Davidson and Moran",CN,1
+SUP_DE_02684,Myers LLC,DE,1
+SUP_CN_02685,Williams-Smith,CN,1
+SUP_US_02686,Wang-Mcfarland,US,1
+SUP_DE_02687,Kerr-Gonzalez,DE,1
+SUP_CN_02688,Fisher Inc,CN,1
+SUP_US_02689,Hoover-Frazier,US,1
+SUP_CN_02690,Walker Inc,CN,1
+SUP_CN_02691,"Jackson, Jackson and Perry",CN,1
+SUP_DE_02692,Ochoa LLC,DE,1
+SUP_KR_02693,"Sims, Weber and Villa",KR,1
+SUP_CN_02694,Mcmillan-Martinez,CN,1
+SUP_KR_02695,Rodriguez LLC,KR,1
+SUP_CN_02696,Smith Ltd,CN,1
+SUP_KR_02697,Smith-Lewis,KR,1
+SUP_KR_02698,Jones LLC,KR,1
+SUP_CN_02699,"Hanson, Williams and Mcclure",CN,1
+SUP_CN_02700,Turner-George,CN,1
+SUP_CN_02701,Marquez PLC,CN,1
+SUP_KR_02702,King Inc,KR,1
+SUP_DE_02703,"Nguyen, Mccoy and Price",DE,1
+SUP_CN_02704,"Anderson, Thompson and Gill",CN,1
+SUP_KR_02705,"Stewart, York and Olson",KR,1
+SUP_CN_02706,Smith-Barr,CN,1
+SUP_US_02707,Reyes-Davidson,US,1
+SUP_CN_02708,Gordon Ltd,CN,1
+SUP_KR_02709,Hall PLC,KR,1
+SUP_CN_02710,Parker Ltd,CN,1
+SUP_CN_02711,Todd-Harvey,CN,1
+SUP_XX_02712,Taylor Group,XX,1
+SUP_US_02713,Harris-Bennett,US,1
+SUP_KR_02714,"Johnson, Mclean and George",KR,1
+SUP_XX_02715,Stevenson-Murphy,XX,1
+SUP_DE_02716,Stewart-Buchanan,DE,1
+SUP_CN_02717,Meyer Group,CN,1
+SUP_CN_02718,"Hess, Christensen and Perez",CN,1
+SUP_CN_02719,"Rivera, Allen and Ryan",CN,1
+SUP_DE_02720,"Mcneil, Solis and Horton",DE,1
+SUP_CN_02721,Franklin Group,CN,1
+SUP_CN_02722,"Morris, Ramos and Smith",CN,1
+SUP_CN_02723,Jones-Lee,CN,1
+SUP_KR_02724,"Braun, Mays and Martinez",KR,1
+SUP_XX_02725,Watkins and Sons,XX,1
+SUP_CN_02726,Romero Group,CN,1
+SUP_US_02727,"Mcdonald, Martin and Gonzalez",US,1
+SUP_XX_02728,Thompson-Wright,XX,1
+SUP_XX_02729,Ray-Faulkner,XX,1
+SUP_CN_02730,Nelson Group,CN,1
+SUP_KR_02731,Tapia LLC,KR,1
+SUP_CN_02732,Gray-Ruiz,CN,1
+SUP_US_02733,Wagner-Moss,US,1
+SUP_CN_02734,Weiss Group,CN,1
+SUP_KR_02735,Gill Group,KR,1
+SUP_CN_02736,Blake LLC,CN,1
+SUP_CN_02737,"Medina, Tran and Thompson",CN,1
+SUP_KR_02738,Ford-Chavez,KR,1
+SUP_CN_02739,Hart-Castillo,CN,1
+SUP_JP_02740,Taylor-Harrison,JP,1
+SUP_KR_02741,Hendricks Inc,KR,1
+SUP_KR_02742,Hensley Ltd,KR,1
+SUP_KR_02743,"Brooks, Sullivan and Perry",KR,1
+SUP_DE_02744,Waller-Brooks,DE,1
+SUP_CN_02745,Parker-Archer,CN,1
+SUP_XX_02746,Ortiz Inc,XX,1
+SUP_DE_02747,Cruz PLC,DE,1
+SUP_CN_02748,Lee Group,CN,1
+SUP_CN_02749,Wise-Walton,CN,1
+SUP_CN_02750,Hicks-Burns,CN,1
+SUP_CN_02751,"Richardson, Brown and Cruz",CN,1
+SUP_CN_02752,Fitzgerald-Allen,CN,1
+SUP_US_02753,Dorsey LLC,US,1
+SUP_US_02754,"Mann, Johnson and Wade",US,1
+SUP_XX_02755,Green Group,XX,1
+SUP_CN_02756,"Hernandez, Wright and Lane",CN,1
+SUP_JP_02757,"Skinner, Smith and Wise",JP,1
+SUP_US_02758,"Dawson, Cruz and Mccarthy",US,1
+SUP_DE_02759,Stone and Sons,DE,1
+SUP_CN_02760,Martin-Simmons,CN,1
+SUP_KR_02761,"Turner, Ponce and Barrett",KR,1
+SUP_CN_02762,Willis-Gross,CN,1
+SUP_KR_02763,"Booth, Rodriguez and Armstrong",KR,1
+SUP_CN_02764,Olsen-Adams,CN,1
+SUP_XX_02765,Conrad Group,XX,1
+SUP_DE_02766,"Parker, Benitez and Velasquez",DE,1
+SUP_CN_02767,Davis Ltd,CN,1
+SUP_XX_02768,Warren-Pena,XX,1
+SUP_US_02769,"Jordan, Thompson and Lopez",US,1
+SUP_KR_02770,Gonzalez and Sons,KR,1
+SUP_DE_02771,"Fry, Hayes and Olsen",DE,1
+SUP_CN_02772,Harris Ltd,CN,1
+SUP_XX_02773,Lamb and Sons,XX,1
+SUP_CN_02774,Bird-Savage,CN,1
+SUP_CN_02775,Sims-Weber,CN,1
+SUP_CN_02776,"Martin, Carter and Gray",CN,1
+SUP_US_02777,Brown-Johnson,US,1
+SUP_CN_02778,Woods Ltd,CN,1
+SUP_KR_02779,Smith LLC,KR,1
+SUP_CN_02780,Ortega Inc,CN,1
+SUP_XX_02781,Clark Inc,XX,1
+SUP_CN_02782,Morrison-Hatfield,CN,1
+SUP_CN_02783,Frederick-Kennedy,CN,1
+SUP_CN_02784,Munoz-Rogers,CN,1
+SUP_US_02785,"Wu, Key and Montoya",US,1
+SUP_DE_02786,Ortega-Gray,DE,1
+SUP_DE_02787,Hester LLC,DE,1
+SUP_CN_02788,Smith Ltd,CN,1
+SUP_CN_02789,Hardy-Barron,CN,1
+SUP_CN_02790,Johnson Inc,CN,1
+SUP_CN_02791,"Ramirez, Lyons and Briggs",CN,1
+SUP_DE_02792,Hayes-Parks,DE,1
+SUP_KR_02793,Robertson-Keller,KR,1
+SUP_CN_02794,Andersen LLC,CN,1
+SUP_CN_02795,Schultz Inc,CN,1
+SUP_KR_02796,"Nguyen, Wallace and Lawson",KR,1
+SUP_CN_02797,Stevenson-Bauer,CN,1
+SUP_KR_02798,Patterson-Huynh,KR,1
+SUP_XX_02799,Hatfield-Vincent,XX,1
+SUP_CN_02800,Navarro LLC,CN,1
+SUP_CN_02801,"Lee, Thomas and Meyer",CN,1
+SUP_CN_02802,"Glover, Moran and Johnson",CN,1
+SUP_CN_02803,Robles-Turner,CN,1
+SUP_CN_02804,"Davies, Archer and Owens",CN,1
+SUP_JP_02805,Friedman-Olson,JP,1
+SUP_US_02806,"Allen, Lewis and Mullins",US,1
+SUP_JP_02807,"Graves, Garcia and Holder",JP,1
+SUP_CN_02808,Martin LLC,CN,1
+SUP_US_02809,Miranda-Robinson,US,1
+SUP_CN_02810,Wade-Lynn,CN,1
+SUP_CN_02811,"Martinez, Taylor and Nichols",CN,1
+SUP_CN_02812,"Vasquez, Pope and Cook",CN,1
+SUP_CN_02813,Huynh PLC,CN,1
+SUP_KR_02814,Schneider Group,KR,1
+SUP_JP_02815,"Paul, Hardy and Valdez",JP,1
+SUP_CN_02816,"Burch, Kim and Hall",CN,1
+SUP_XX_02817,Wilson-Miller,XX,1
+SUP_CN_02818,Peterson PLC,CN,1
+SUP_CN_02819,Garner Inc,CN,1
+SUP_KR_02820,"Richardson, Castaneda and Finley",KR,1
+SUP_DE_02821,"Mclaughlin, Collins and Lawrence",DE,1
+SUP_CN_02822,Boone Group,CN,1
+SUP_KR_02823,Wise-Salinas,KR,1
+SUP_US_02824,Meyer PLC,US,1
+SUP_CN_02825,"Walker, Foster and Medina",CN,1
+SUP_CN_02826,Stewart-Cabrera,CN,1
+SUP_US_02827,Hood-Porter,US,1
+SUP_XX_02828,Hernandez-Campbell,XX,1
+SUP_CN_02829,"Ortega, Solis and Warner",CN,1
+SUP_US_02830,"Flores, Shaw and Barker",US,1
+SUP_CN_02831,Shea-Mccarthy,CN,1
+SUP_JP_02832,Welch-Lewis,JP,1
+SUP_JP_02833,Padilla-Bennett,JP,1
+SUP_KR_02834,Hernandez-Moran,KR,1
+SUP_CN_02835,"Michael, Walker and Fitzgerald",CN,1
+SUP_US_02836,Gates Ltd,US,1
+SUP_CN_02837,Evans-Briggs,CN,1
+SUP_CN_02838,Ritter PLC,CN,1
+SUP_XX_02839,Rogers-Gregory,XX,1
+SUP_CN_02840,Todd-Myers,CN,1
+SUP_CN_02841,"Acosta, Campbell and Leblanc",CN,1
+SUP_XX_02842,"Chase, Long and Anderson",XX,1
+SUP_US_02843,"Glenn, Brown and Michael",US,1
+SUP_CN_02844,Ellis-Martin,CN,1
+SUP_CN_02845,Ramos Group,CN,1
+SUP_KR_02846,Merritt-Clark,KR,1
+SUP_CN_02847,"Gonzalez, Curtis and Cox",CN,1
+SUP_KR_02848,"Garcia, Floyd and Garrison",KR,1
+SUP_US_02849,Clements-Simmons,US,1
+SUP_CN_02850,Howe Inc,CN,1
+SUP_CN_02851,Mccann-White,CN,1
+SUP_JP_02852,Wilson PLC,JP,1
+SUP_CN_02853,"Morgan, Hamilton and Hernandez",CN,1
+SUP_CN_02854,"Powell, Johnson and Allen",CN,1
+SUP_CN_02855,Turner-Carlson,CN,1
+SUP_CN_02856,Delgado Group,CN,1
+SUP_US_02857,"Esparza, Lambert and Davis",US,1
+SUP_CN_02858,Hancock-Santos,CN,1
+SUP_JP_02859,Chen-Wallace,JP,1
+SUP_CN_02860,Wilson Inc,CN,1
+SUP_CN_02861,Burns Ltd,CN,1
+SUP_CN_02862,"Walker, Matthews and Archer",CN,1
+SUP_KR_02863,Hill-Mcgee,KR,1
+SUP_CN_02864,"White, Washington and Newman",CN,1
+SUP_CN_02865,Evans-Martinez,CN,1
+SUP_CN_02866,Brown-Stout,CN,1
+SUP_CN_02867,"Lopez, Hess and Smith",CN,1
+SUP_US_02868,"Roth, Logan and Moreno",US,1
+SUP_KR_02869,Stone PLC,KR,1
+SUP_JP_02870,"Reeves, Tyler and Martinez",JP,1
+SUP_US_02871,Sheppard Inc,US,1
+SUP_DE_02872,Atkins Ltd,DE,1
+SUP_XX_02873,Smith Group,XX,1
+SUP_DE_02874,Martinez-Anderson,DE,1
+SUP_CN_02875,Delgado Inc,CN,1
+SUP_KR_02876,"Scott, Mullins and Miller",KR,1
+SUP_KR_02877,Hunter LLC,KR,1
+SUP_XX_02878,"Jackson, Rowland and Barrett",XX,1
+SUP_KR_02879,Turner PLC,KR,1
+SUP_CN_02880,Hopkins-Wallace,CN,1
+SUP_CN_02881,"Henry, Edwards and Bartlett",CN,1
+SUP_CN_02882,Obrien-Dixon,CN,1
+SUP_CN_02883,"Garcia, Weiss and Young",CN,1
+SUP_US_02884,Thomas and Sons,US,1
+SUP_DE_02885,Guzman and Sons,DE,1
+SUP_CN_02886,"Howard, Anderson and Dean",CN,1
+SUP_XX_02887,Pierce LLC,XX,1
+SUP_KR_02888,Santos-Martin,KR,1
+SUP_DE_02889,Miller-King,DE,1
+SUP_XX_02890,Bentley-Thomas,XX,1
+SUP_XX_02891,Jones Ltd,XX,1
+SUP_CN_02892,Cowan-Terry,CN,1
+SUP_JP_02893,Klein PLC,JP,1
+SUP_CN_02894,"Holland, Dixon and Martin",CN,1
+SUP_US_02895,Stewart Group,US,1
+SUP_XX_02896,Johnson-Munoz,XX,1
+SUP_CN_02897,Nelson PLC,CN,1
+SUP_XX_02898,Sutton Group,XX,1
+SUP_CN_02899,Murphy Inc,CN,1
+SUP_US_02900,Blankenship-Strickland,US,1
+SUP_DE_02901,Melton and Sons,DE,1
+SUP_CN_02902,Smith-Bennett,CN,1
+SUP_US_02903,Gray Inc,US,1
+SUP_US_02904,Thompson Ltd,US,1
+SUP_CN_02905,Chapman-Roman,CN,1
+SUP_KR_02906,Rice Ltd,KR,1
+SUP_US_02907,"Grimes, Arnold and Lawson",US,1
+SUP_JP_02908,Jackson Group,JP,1
+SUP_XX_02909,Reed Ltd,XX,1
+SUP_CN_02910,"Faulkner, Schmidt and Wheeler",CN,1
+SUP_DE_02911,Woods-Anderson,DE,1
+SUP_XX_02912,Parks Ltd,XX,1
+SUP_KR_02913,Sandoval and Sons,KR,1
+SUP_KR_02914,Bradley-Adams,KR,1
+SUP_CN_02915,"Fowler, Wood and Waters",CN,1
+SUP_XX_02916,"Franklin, Mann and White",XX,1
+SUP_US_02917,Lindsey-Shaw,US,1
+SUP_KR_02918,Cisneros-Meyer,KR,1
+SUP_CN_02919,"Keith, Cervantes and Torres",CN,1
+SUP_KR_02920,Meza Group,KR,1
+SUP_CN_02921,Bruce-Walters,CN,1
+SUP_CN_02922,Blair Inc,CN,1
+SUP_CN_02923,Johnston Inc,CN,1
+SUP_KR_02924,"Mitchell, Noble and Stokes",KR,1
+SUP_CN_02925,Hayden Group,CN,1
+SUP_XX_02926,"Romero, Cross and Castillo",XX,1
+SUP_CN_02927,"Jennings, Rhodes and Patel",CN,1
+SUP_CN_02928,Sullivan PLC,CN,1
+SUP_DE_02929,Bartlett Ltd,DE,1
+SUP_XX_02930,Klein Ltd,XX,1
+SUP_US_02931,"Brady, Sanchez and Stevenson",US,1
+SUP_CN_02932,"Sutton, Williams and West",CN,1
+SUP_CN_02933,Craig PLC,CN,1
+SUP_KR_02934,Thompson LLC,KR,1
+SUP_XX_02935,Palmer Inc,XX,1
+SUP_DE_02936,Simpson-Jackson,DE,1
+SUP_US_02937,Morgan Ltd,US,1
+SUP_US_02938,Decker Inc,US,1
+SUP_XX_02939,Evans-Carter,XX,1
+SUP_CN_02940,Smith Ltd,CN,1
+SUP_XX_02941,"Long, Leblanc and Hickman",XX,1
+SUP_CN_02942,"Robertson, Barry and Walls",CN,1
+SUP_CN_02943,"Charles, Brown and Smith",CN,1
+SUP_CN_02944,Murphy-Gomez,CN,1
+SUP_CN_02945,Bailey Ltd,CN,1
+SUP_CN_02946,Morales Inc,CN,1
+SUP_XX_02947,Jordan and Sons,XX,1
+SUP_DE_02948,Rice and Sons,DE,1
+SUP_XX_02949,Martinez-Freeman,XX,1
+SUP_JP_02950,Hammond LLC,JP,1
+SUP_CN_02951,Ruiz LLC,CN,1
+SUP_XX_02952,Diaz-Mcclain,XX,1
+SUP_JP_02953,"Cain, Rodriguez and Gonzales",JP,1
+SUP_XX_02954,Martin-Gomez,XX,1
+SUP_DE_02955,Smith-Stephenson,DE,1
+SUP_CN_02956,"Gonzalez, Lopez and Williams",CN,1
+SUP_KR_02957,Fisher-Rivera,KR,2
+SUP_CN_02958,Martin and Sons,CN,1
+SUP_CN_02959,Moyer-Bird,CN,1
+SUP_JP_02960,Fisher PLC,JP,1
+SUP_CN_02961,Marsh-Klein,CN,1
+SUP_DE_02962,Potter-Deleon,DE,1
+SUP_XX_02963,Shaw-Mclean,XX,1
+SUP_XX_02964,Anderson-Rosario,XX,1
+SUP_CN_02965,Martinez LLC,CN,1
+SUP_XX_02966,"Smith, Cohen and Williams",XX,1
+SUP_XX_02967,Jordan-Harper,XX,1
+SUP_CN_02968,Hamilton LLC,CN,1
+SUP_JP_02969,Tucker-Hodges,JP,1
+SUP_XX_02970,Williamson Ltd,XX,1
+SUP_XX_02971,"Lopez, Campbell and Wilson",XX,1
+SUP_CN_02972,Gamble-Wright,CN,1
+SUP_KR_02973,Gonzalez-Mccarthy,KR,1
+SUP_XX_02974,Haynes PLC,XX,1
+SUP_CN_02975,"White, Riddle and Garza",CN,1
+SUP_DE_02976,"Hernandez, Martinez and Morales",DE,1
+SUP_CN_02977,Mooney-Hickman,CN,1
+SUP_XX_02978,Smith-Gonzalez,XX,1
+SUP_CN_02979,James PLC,CN,1
+SUP_US_02980,Graves-Baird,US,1
+SUP_CN_02981,Rogers Group,CN,1
+SUP_DE_02982,Hicks Ltd,DE,1
+SUP_JP_02983,Torres LLC,JP,1
+SUP_US_02984,Ramirez-Bell,US,1
+SUP_CN_02985,Wright-Jacobson,CN,1
+SUP_CN_02986,Williams Inc,CN,1
+SUP_CN_02987,"Garner, Lewis and Kennedy",CN,1
+SUP_CN_02988,"Garcia, Lopez and Vaughan",CN,1
+SUP_CN_02989,Cook-Rodriguez,CN,1
+SUP_CN_02990,"Smith, Arnold and Atkins",CN,1
+SUP_CN_02991,Ward-Patrick,CN,1
+SUP_CN_02992,"Maxwell, Rice and Watson",CN,1
+SUP_DE_02993,"Hill, Silva and Miller",DE,1
+SUP_XX_02994,Anderson Ltd,XX,1
+SUP_US_02995,"Martinez, Willis and Barr",US,1
+SUP_KR_02996,"Roth, Lee and Griffin",KR,1
+SUP_CN_02997,Jones PLC,CN,1
+SUP_KR_02998,"Cooper, Swanson and Mayo",KR,1
+SUP_CN_02999,Ferguson and Sons,CN,1
+SUP_KR_03000,Anderson Group,KR,1

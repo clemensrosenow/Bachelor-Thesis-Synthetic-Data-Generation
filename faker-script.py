@@ -13,6 +13,20 @@
 #     name: python3
 # ---
 
+# %% [markdown]
+# # Scope
+# Implicit _production_ knowledge graph
+#
+# ## Limitations
+#
+# - **Static Substitutability**: No explicit modeling of backup materials / suppliers 
+# - **Logistics Blindspot**: Logistic Route Disruptions from supplier to buyer (e.g. Read Sea blockage) are ignored 
+# - **Hidden Correlations**: All supplier entities are independent, possible clustering within parent holding company is isolated
+# - **Clear BOM hierarchy**: Without skipping tiers and cyclic dependencies
+# - **No product variants**: For simplicity, but would add extra granularity
+# - Only one material per purchase order (could be multiple in reality, but would lead to extra complexity)
+#
+
 # %% [markdown] id="JSV3iFgxEDE0"
 # # Configuration & Parameters
 
@@ -22,8 +36,7 @@ import pandas as pd
 import numpy as np
 from faker import Faker
 import random
-import uuid
-from datetime import datetime, timedelta
+from datetime import timedelta, date
 
 # %% id="r-qa-rjmE1Zf"
 seed = 42 # for reproducible random output across runs
@@ -96,8 +109,6 @@ for i in range(NUM_SUPPLIERS):
         "supplier_id": sup_id,
         "name": fake.company(),
         "country": country,
-        "risk_score": round(random.uniform(0.1, 9.9), 2), # 10 is high risk
-        "tier_category": random.choice(["Strategic", "Strategic", "Commodity", "Commodity", "Specialist"]),
         "capacity_score": int(dominance_scores[i]) # Hidden attribute for graph generation logic
     })
 
@@ -130,8 +141,8 @@ for i in range(NUM_MATERIALS):
 
     materials.append({
         "material_id": mat_id,
-        "description": f"{base_name} - {fake.word().upper()} Variant",
-        "tier_level": tier,
+        "description": base_name,
+        "tier_level": tier, # to be used for BOM hierarchy
         "base_unit": "EA" if tier < 4 else "KG",
         "cost_estimate": round(random.lognormvariate(3, 1) * (5 - tier), 2) # Higher tiers = more expensive
     })
@@ -144,6 +155,8 @@ df_materials.head()
 #
 # Material -> Material
 #
+#
+# - Includes "Nexus" Logic: We intentionally sample from a smaller subset of Tier 4 items to ensure multiple Tier 3s depend on the SAME Tier 4s (creating bottlenecks).
 # ---
 # * BOM Type seems redundant
 # * should quantity be whole number?
@@ -167,8 +180,6 @@ for tier in range(4): # 0, 1, 2, 3
         num_children = max(1, int(np.random.poisson(lam=4.0 - (tier * 0.5))))
 
         # Select children
-        # "Nexus" Logic: We intentionally sample from a smaller subset of Tier 4 items
-        # to ensure multiple Tier 3s depend on the SAME Tier 4s (creating bottlenecks).
         if tier == 3:
             # Heavily biased selection for Raw Materials to create dependency hubs
             children = np.random.choice(potential_children, size=num_children, replace=False)
@@ -183,16 +194,17 @@ for tier in range(4): # 0, 1, 2, 3
                 "parent_material_id": parent,
                 "child_material_id": child,
                 "quantity": qty,
-                "bom_type": "Production"
             })
 
 df_bom = pd.DataFrame(bom_edges)
 df_bom.head()
 
 # %% [markdown] id="8ETJvEPtNy1a"
-# # Generate Purchase Order Edges
+# # Generate Order Fulfillment Edges
 #
 # Supplier -> Material
+#
+# Merges Purchase Orders and Goods Receipt documents
 #
 # ---
 
@@ -227,10 +239,13 @@ for mat in material_list:
 
 # %% [markdown] id="QjfBU0PTQzGn"
 # ## Generate POs based on relationships
+#
+# Status is used to differentiate between historic data and current exposure.
 
 # %% id="d8PwPzpPQ8v8"
 current_po_count = 0
 po_id_counter = 100000
+current_date = date(2025, 10, 31)
 
 while current_po_count < TARGET_PO_COUNT:
     # Pick a random material
@@ -240,26 +255,44 @@ while current_po_count < TARGET_PO_COUNT:
     supplier_id = random.choice(valid_suppliers)
 
     # Generate Date
-    po_date = fake.date_between(start_date='-2y', end_date='today')
-    due_date = po_date + timedelta(days=random.randint(14, 90))
+    po_date = fake.date_between(start_date=date(2024, 1, 1), end_date=date(2025, 12, 31))
+    lead_time = random.randint(14, 90)
+    due_date = po_date + timedelta(days=lead_time)
 
     # Pareto Volume: 20% of orders get 80% of volume
     is_bulk = random.random() < 0.20
-    quantity = int(np.random.pareto(a=1.16) * 50) + 1 if is_bulk else random.randint(1, 100)
+    quantity_ordered = int(np.random.pareto(a=1.16) * 50) + 1 if is_bulk else random.randint(1, 100)
+
+    if due_date > current_date: # Open order
+        quantity_received = 0
+        receipt_date = None
+    else:
+        fulfillment_status = np.random.choice(["Full", "Partial", "Missing"], p=[0.85, 0.10, 0.05])
+
+        if fulfillment_status == "Full":
+            quantity_received = quantity_ordered
+            # Receipt happened -2 to +10 days around due date
+            receipt_date = due_date + timedelta(days=random.randint(-2, 10))
+        elif fulfillment_status == "Partial":
+            quantity_received = int(quantity_ordered * random.uniform(0.1, 0.9))
+            receipt_date = due_date + timedelta(days=random.randint(1, 15))
+        else: # Missing
+            quantity_received = 0
+            receipt_date = None
 
     # Unit Price with some noise
     unit_price = mat['cost_estimate'] * random.uniform(0.95, 1.05)
 
     po_records.append({
-        "po_number": f"PO-{po_id_counter}",
+        "po_id": f"PO-{po_id_counter}", # Unique line ID
         "supplier_id": supplier_id,
         "material_id": mat['material_id'],
         "order_date": po_date,
-        "delivery_due_date": due_date,
-        "quantity": quantity,
+        "due_date": due_date,
+        "receipt_date": receipt_date,
+        "quantity_ordered": quantity_ordered,
+        "quantity_received": quantity_received,
         "unit_price": round(unit_price, 2),
-        "total_value": round(quantity * unit_price, 2),
-        "status": random.choices(["Closed", "Open", "Delayed"], weights=[0.7, 0.2, 0.1])[0]
     })
 
     po_id_counter += 1
@@ -272,11 +305,19 @@ df_po.head()
 # %% [markdown] id="bBGHOhdZRUN3"
 # # Export
 
+# %% [markdown]
+# Remove explicit columns used for edge generation.
+
+# %%
+df_suppliers.drop(columns=['capacity_score'])
+df_materials.drop(columns=['cost_estimate', 'tier_level'])
+
 # %% colab={"base_uri": "https://localhost:8080/"} id="wx79jTVDRhBd" outputId="3664da5f-aee8-4aa0-b7a0-219d0164a499"
-df_suppliers.drop(columns=['capacity_score']).to_csv("suppliers.csv", index=False)
-df_materials.to_csv("materials.csv", index=False)
-df_bom.to_csv("bom_relationships.csv", index=False)
-df_po.to_csv("purchase_orders.csv", index=False)
+subfolder = "data"
+df_suppliers.to_csv(f"{subfolder}/suppliers.csv", index=False)
+df_materials.to_csv(f"{subfolder}/materials.csv", index=False)
+df_bom.to_csv(f"{subfolder}/bom_relationships.csv", index=False)
+df_po.to_csv(f"{subfolder}/purchase_orders.csv", index=False)
 
 print("Done! Files generated:")
 print(f" - suppliers.csv ({len(df_suppliers)} rows)")
