@@ -25,6 +25,8 @@
 # - **Clear BOM hierarchy**: Without skipping tiers and cyclic dependencies
 # - **No product variants**: For simplicity, but would add extra granularity
 # - Only one material per purchase order (could be multiple in reality, but would lead to extra complexity)
+# - **No Temporal Logic**: Random PO dates, no time phasing for product delivery flow from lower to higher tiers (completely independent of each other) -> loses "Bullwhip" effect
+# - **Strict Tier Rigidity**: Enforces a strict Tier N -> Tier N + 1 dependency (in reality, there are "skip-level" edge like directed buys)
 #
 
 # %% [markdown] id="JSV3iFgxEDE0"
@@ -36,6 +38,7 @@ import pandas as pd
 import numpy as np
 from faker import Faker
 import random
+import os
 from datetime import timedelta, date
 
 # %% id="r-qa-rjmE1Zf"
@@ -209,7 +212,7 @@ df_bom.head()
 # ---
 
 # %% id="Yay1A7xIQaSf"
-po_records = []
+order_records = []
 supplier_list = df_suppliers.to_dict('records')
 material_list = df_materials.to_dict('records')
 
@@ -283,7 +286,7 @@ while current_po_count < TARGET_PO_COUNT:
     # Unit Price with some noise
     unit_price = mat['cost_estimate'] * random.uniform(0.95, 1.05)
 
-    po_records.append({
+    order_records.append({
         "po_id": f"PO-{po_id_counter}", # Unique line ID
         "supplier_id": supplier_id,
         "material_id": mat['material_id'],
@@ -299,7 +302,7 @@ while current_po_count < TARGET_PO_COUNT:
     current_po_count += 1
 
 # %% colab={"base_uri": "https://localhost:8080/", "height": 226} id="1HGC134xRAjw" outputId="532d29c7-e5f4-4815-9429-b69c8ed88173"
-df_po = pd.DataFrame(po_records)
+df_po = pd.DataFrame(order_records)
 df_po.head()
 
 # %% [markdown] id="bBGHOhdZRUN3"
@@ -309,18 +312,20 @@ df_po.head()
 # Remove explicit columns used for edge generation.
 
 # %%
-df_suppliers.drop(columns=['capacity_score'])
-df_materials.drop(columns=['cost_estimate', 'tier_level'])
+df_suppliers = df_suppliers.drop(columns=['capacity_score'])
+df_materials = df_materials.drop(columns=['cost_estimate', 'tier_level'])
 
 # %% colab={"base_uri": "https://localhost:8080/"} id="wx79jTVDRhBd" outputId="3664da5f-aee8-4aa0-b7a0-219d0164a499"
+parent_folder = "data-gen"
 subfolder = "data"
-df_suppliers.to_csv(f"{subfolder}/suppliers.csv", index=False)
-df_materials.to_csv(f"{subfolder}/materials.csv", index=False)
-df_bom.to_csv(f"{subfolder}/bom_relationships.csv", index=False)
-df_po.to_csv(f"{subfolder}/purchase_orders.csv", index=False)
+os.makedirs(subfolder, exist_ok=True)
+df_suppliers.to_csv(f"./{parent_folder}/{subfolder}/suppliers.csv", index=False)
+df_materials.to_csv(f"./{parent_folder}/{subfolder}/materials.csv", index=False)
+df_bom.to_csv(f"./{parent_folder}/{subfolder}/bom_relationships.csv", index=False)
+df_po.to_csv(f"./{parent_folder}/{subfolder}/order_records.csv", index=False)
 
 print("Done! Files generated:")
 print(f" - suppliers.csv ({len(df_suppliers)} rows)")
 print(f" - materials.csv ({len(df_materials)} rows)")
 print(f" - bom_relationships.csv ({len(df_bom)} rows)")
-print(f" - purchase_orders.csv ({len(df_po)} rows)")
+print(f" - order_records.csv ({len(df_po)} rows)")
